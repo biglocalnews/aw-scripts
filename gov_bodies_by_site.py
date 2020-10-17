@@ -1,7 +1,10 @@
 """
 Merge CivicPlus and Legistar site metadata CSVs into
-a single, standardized file that enables automated and/or
-manual addition of metadata (e.g. state, county, region fields).
+a single, standardized file that contains a single row
+for every "meeting body" associated with a site.
+
+Output file enables automated and/or manual oaddition of metadata
+(e.g. state, county, agency type fields).
 
 Requires:
     * git
@@ -18,8 +21,8 @@ def main():
     data_dir = Path('data')
     data_dir.mkdir(exist_ok=True)
     civplus = get_civicplus_data(data_dir)
-    outfile = 'data/sites.csv'
-    print("Writing out data...")
+    outfile = 'data/gov_bodies_by_site.csv'
+    print(f"Writing out {outfile}...")
     with open(outfile, 'w') as out:
         fieldnames = civplus[0].keys()
         writer = csv.DictWriter(out, fieldnames=fieldnames)
