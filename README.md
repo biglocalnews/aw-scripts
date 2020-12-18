@@ -1,11 +1,19 @@
 # aw-scripts
+
 Misc scripts and other code bits that haven't graduated to their own repos.
+
+> License: [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Agenda Watch coverage analysis
 
 The `merge_sites.py` script generates a standardized json file
 that merges CivicPlus and Legistar site info and annotates with
 FIPS codes for analysis downstream.
+
+Generated data is used, among other things, to produce a [county
+coverage map][].
+
+[county coverage map]: https://observablehq.com/d/b22147a5f36944e0
 
 Data sources
 
