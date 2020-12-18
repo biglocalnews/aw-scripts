@@ -1,0 +1,5276 @@
+{
+    "Items": [
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "charlottenc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Charlotte"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "broward.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Broward"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "richmondva.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Richmond"
+            },
+            "state": {
+                "S": "VA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "sanitation district"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "ocsd.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Orange County Sanitation District"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "venice.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Venice"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mesa.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Mesa"
+            },
+            "state": {
+                "S": "AZ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "transportation"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "bart.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Francisco Bay Area Rapid Transit District"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "nyc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "New York City"
+            },
+            "state": {
+                "S": "NY"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sanleandro.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Leandro"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "retirement"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sbcera.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Bernardino County Employees' Retirement Assoc."
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pompano.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pompano Beach"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "gaston.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Gaston"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "waukesha.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Waukesha"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "manhattanbeach.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Manhattan Beach"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "countyoflake.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lake"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "albemarle.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Albemarle"
+            },
+            "state": {
+                "S": "VA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "brightonco.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Brighton"
+            },
+            "state": {
+                "S": "CO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "camas.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Camas"
+            },
+            "state": {
+                "S": "WA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "rialto.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Rialto"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mauicounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Maui"
+            },
+            "state": {
+                "S": "HI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "gahanna.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Gahanna"
+            },
+            "state": {
+                "S": "OH"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "delraybeach.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Delray Beach"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "kingcounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "King"
+            },
+            "state": {
+                "S": "WA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "borough"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "matanuska.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Matanusk-Susitna Borough"
+            },
+            "state": {
+                "S": "AK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sanpablo.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Pablo"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "laramiecounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Laramie"
+            },
+            "state": {
+                "S": "WY"
+            }
+        },
+        {
+            "site_type": {
+                "S": "transportation"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "metro.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Metro (Los Angeles)"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "Canada"
+            },
+            "endpoint": {
+                "S": "sturgeoncounty.ca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Sturgeon"
+            },
+            "state": {
+                "S": "AB"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "ppines.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pembroke Pines"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "leaguecity.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "League City"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "fresnocounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Fresno"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "rail corridor agency"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lossan.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Los Angeles-San Diego-San Luis Obispo Rail Corridor Agency"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "salem.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Salem"
+            },
+            "state": {
+                "S": "OR"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "highpoint.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "High Point"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "fortlauderdale.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Fort Lauderdale"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pima.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pima"
+            },
+            "state": {
+                "S": "AZ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "judicial county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "jcc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Judicial Council of California"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "occompt.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Orange"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "carrolltontx.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Carrollton"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "manitowoc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Manitowoc"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "boerne.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Bouerne"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "gainesville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Gainesville"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "oregon-city.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Oregon City"
+            },
+            "state": {
+                "S": "OR"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "santabarbara.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Santa Barbara"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lauderhill-fl.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lauderhill"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "winston-salem.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Winston-Salem"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "accessfayetteville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Fayetteville"
+            },
+            "state": {
+                "S": "AR"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "stockton.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Stockton"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "gocolumbiamo.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Columbia"
+            },
+            "state": {
+                "S": "MO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "paradisevalleyaz.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Paradise Valley"
+            },
+            "state": {
+                "S": "AZ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "nrhtx.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "North Richland Hills"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "marcoisland.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Marco Island"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "goleta.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Goleta"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "duluth-mn.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Duluth"
+            },
+            "state": {
+                "S": "MN"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "salinas.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Salinas"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mountainview.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Mountain View"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofedgewater.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Edgewater"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sunnyvaleca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Sunnyvale"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "alexandria.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Alexandria"
+            },
+            "state": {
+                "S": "VA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "redmond.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Redmond"
+            },
+            "state": {
+                "S": "WA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "jonesboro.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Jonesboro"
+            },
+            "state": {
+                "S": "AR"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "wellington.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Wellington"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "tribal council"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "easternband.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Eastern Band of the Cherokee Nation"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityoflewisville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lewisville"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "hampton.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Hampton"
+            },
+            "state": {
+                "S": "VA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "roundrock.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Round Rock"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofmerced.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Merced"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "columbus.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Columbus"
+            },
+            "state": {
+                "S": "OH"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "milwaukeecounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Milwaukee"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "school district"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "monroe-k12.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Monroe County School District"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "santaclara.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Santa Clara"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "council of governments"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sjcog.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Joaquin Council of Governments"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county and municipal"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sfgov.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Francisco"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "aurora-il.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Aurora"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "deltona.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Deltona"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "corona.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Corona"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "culver-city.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Culver City"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "redondo.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Redondo Beach"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "guilford.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Guilford"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cabq.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Albuquerque"
+            },
+            "state": {
+                "S": "NM"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofdeerpark.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Deer Park"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "laurelms.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Laurel"
+            },
+            "state": {
+                "S": "MS"
+            }
+        },
+        {
+            "site_type": {
+                "S": "tribal council"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cherokee.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Cherokee"
+            },
+            "state": {
+                "S": "OK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "parish"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "stcharles.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "St. Charles"
+            },
+            "state": {
+                "S": "LA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pinellaspark.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pinellas Park"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "blounttn.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Blount"
+            },
+            "state": {
+                "S": "TN"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "martin.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Martin"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "transportation"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mtc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Metropolitan Transportation Commission"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "maricopa.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Maricopa"
+            },
+            "state": {
+                "S": "AZ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "seattle.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Seattle"
+            },
+            "state": {
+                "S": "WA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "fortworthgov.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Fort Worth"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "newbraunfels.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "New Braunfels"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "norman.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Norman"
+            },
+            "state": {
+                "S": "OK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "dentoncounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Denton"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "doral.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Doral"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mecklenburg.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Mecklenburg"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "whatcom.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Whatcom"
+            },
+            "state": {
+                "S": "WA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sanjose.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Jose"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "rutherfordcountync.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Rutherford"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "commerce.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Commerce City"
+            },
+            "state": {
+                "S": "CO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofkeller.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Keller"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "romeoville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Romeoville"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pomona.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pomona"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "longview.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Longview"
+            },
+            "state": {
+                "S": "WA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "psl.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Port St. Lucie"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofcleveland.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Cleveland"
+            },
+            "state": {
+                "S": "OH"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "coconutcreek.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Coconut Creek"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "miramar.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Miramar"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityfortbragg.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Fort Bragg"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "killeen.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Killeen"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "hesperia.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Hesperia"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "wake.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Wake"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "santa-rosa.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Santa Rosa"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "randolphma.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Randolph"
+            },
+            "state": {
+                "S": "MA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "vienna-va.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Vienna"
+            },
+            "state": {
+                "S": "VA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "vicksburg-ms.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Vicksburg"
+            },
+            "state": {
+                "S": "MS"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "trophyclub.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Trophy Club"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pflugerville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pflugerville"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "corpuschristi.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Corpus Christi"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "ci-ssf-ca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "South San Francisco"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "belleairfl.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Belleair"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "townofyountville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Yountville"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "jaxcityc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Jacksonville"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "brevardfl.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Brevard"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "grandrapids.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Grand Rapids"
+            },
+            "state": {
+                "S": "MN"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "peoriail.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Peoria"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "kpb.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Kenai Peninsula Borough"
+            },
+            "state": {
+                "S": "AK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "orlandpark.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Orland Park"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "solano.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Solano"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "washoe-nv.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Washoe"
+            },
+            "state": {
+                "S": "NV"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mendocino.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Mendocino"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "franklintn.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Franklin"
+            },
+            "state": {
+                "S": "TN"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "collinsville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Collinsville"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "canton.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Canton"
+            },
+            "state": {
+                "S": "GA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "water and sewer"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "dwsd.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Detroit Water and Sewage Department"
+            },
+            "state": {
+                "S": "MI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "crossvilletn.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Crossville"
+            },
+            "state": {
+                "S": "TN"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "denver.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Denver"
+            },
+            "state": {
+                "S": "CO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "css.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Los Angeles Workforce Development, Aging and Community Services"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "port"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "portofoakland.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Port of Oakland"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "fullerton.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Fullerton"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "brunswickcounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Brunswick"
+            },
+            "state": {
+                "S": "VA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "chulavista.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Chula Vista"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lakehavasucity.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lake Havasu"
+            },
+            "state": {
+                "S": "AZ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "newportbeach.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Newport Beach"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "trotwood-oh.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Trotwood"
+            },
+            "state": {
+                "S": "OH"
+            }
+        },
+        {
+            "site_type": {
+                "S": "water"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "scvwd.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Santa Clara Valley Water District"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pinellas.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pinellas"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "denton-tx.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Denton"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "adcogov.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Adams"
+            },
+            "state": {
+                "S": "CO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sanantonio.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Antonio"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "retirement"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sjrs.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "The Retirement Services Department City of San Jose"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "san-marcos-tx.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Marcos"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "baltimore.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Baltimore"
+            },
+            "state": {
+                "S": "MD"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "baldwincountyal.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Baldwin"
+            },
+            "state": {
+                "S": "AL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "madison.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Madison"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "oakland.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Oakland"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "austintexas.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Austin"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "electric cooperative"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pec.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pedernales Electric Cooperative"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "school district"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "ousd.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Oakland Unified"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lombard.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lombard"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "harrisoncounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Harrison"
+            },
+            "state": {
+                "S": "MS"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pinecrest.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pinecrest"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "douglasville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Douglasville"
+            },
+            "state": {
+                "S": "GA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityoffoley.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Foley"
+            },
+            "state": {
+                "S": "AL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "borough"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "petersburg.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Petersburg"
+            },
+            "state": {
+                "S": "AK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "valdez.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Valdez"
+            },
+            "state": {
+                "S": "AK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "farmersbranch.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Farmers Branch"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "napacity.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Napa"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "chathamnc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Chatham"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "naperville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Naperville"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "Canada"
+            },
+            "endpoint": {
+                "S": "stalbert.ca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "St. Albert"
+            },
+            "state": {
+                "S": "AB"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "roch.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Rochester Hills"
+            },
+            "state": {
+                "S": "MI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "humboldt.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Humboldt"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sedgwickcounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Sedgwick"
+            },
+            "state": {
+                "S": "KS"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "olympia.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Olympia"
+            },
+            "state": {
+                "S": "WA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofappleton.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Appleton"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "goodyear.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Goodyear"
+            },
+            "state": {
+                "S": "AZ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "chapelhill.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Chapel Hill"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "Canada"
+            },
+            "endpoint": {
+                "S": "tol.ca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Langley"
+            },
+            "state": {
+                "S": "BC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lsmo.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lee's Summit"
+            },
+            "state": {
+                "S": "MO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "oklahomacounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Oklahoma"
+            },
+            "state": {
+                "S": "OK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "fresno.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Fresno"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "transportation"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "octa.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Orange County Transportation Authority"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "louisville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Louisville"
+            },
+            "state": {
+                "S": "KY"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "seminolecounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Seminole"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "metropolitan planning organization"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "dchcmpo.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "DCHC Metropolitan Planning Organization"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "detroit.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Detroit"
+            },
+            "state": {
+                "S": "MI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "concordnh.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Concord"
+            },
+            "state": {
+                "S": "NH"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "longbeach.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Longbeach"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "water"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "glwater.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Great Lakes Water Authority"
+            },
+            "state": {
+                "S": "MI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "water"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "abcwua.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Albuquerque Bernalillo County Water Utility Authority"
+            },
+            "state": {
+                "S": "NM"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "greensboro.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Greensboro"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofbrookings.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Brookings"
+            },
+            "state": {
+                "S": "SD"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "clearwater.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Clearwater"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "phoenix.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Phoenix"
+            },
+            "state": {
+                "S": "AZ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "transportation"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "nctpa.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Napa Valley Transportation Authority"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "water"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mwrd.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Metropolitan Water Reclamation District of Greater Chicago"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mckinney.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "McKinney"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "hayward.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Hayward"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "coralgables.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Coral Gables"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "hudson.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Hudson"
+            },
+            "state": {
+                "S": "OH"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "chicago.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Chicago"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "port"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "portofsandiego.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Port of San Diego"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "olatheks.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Olathe"
+            },
+            "state": {
+                "S": "KS"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sacramento.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Sacramento"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofmalden.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Malden"
+            },
+            "state": {
+                "S": "MA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "dane.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Dane"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "transportation"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "actransit.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Alameda-Contra Costa Transit District"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "harrisonburg-va.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Harrisonburg"
+            },
+            "state": {
+                "S": "VA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "park district"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "chicagoparkdistrict.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Chicago Park District"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "westalliswi.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Westallis"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cobergennj.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Bergen"
+            },
+            "state": {
+                "S": "NJ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "dekalbcountyga.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "DeKalb"
+            },
+            "state": {
+                "S": "GA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "hollywoodfl.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Hollywood"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofgreen.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Green"
+            },
+            "state": {
+                "S": "OH"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "alameda.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Alameda"
+            },
+            "state": {
+                "S": "CA "
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "brokenarrow.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Broken Arrow"
+            },
+            "state": {
+                "S": "OK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "regional district"
+            },
+            "country": {
+                "S": "Canada"
+            },
+            "endpoint": {
+                "S": "crd.ca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Capital Regional District"
+            },
+            "state": {
+                "S": "BC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "villageoftequesta.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Tequesta"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "littletongov.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Littleton"
+            },
+            "state": {
+                "S": "CO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sanmateocounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Mateo"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cook-county.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Cook"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "uptexas.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "University Park"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pittsburgh.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pittsburgh"
+            },
+            "state": {
+                "S": "PA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "apachejunction.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Apache Junction"
+            },
+            "state": {
+                "S": "AZ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mansfield.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Mansfield"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "riversideca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Riverside"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "morgan-hill.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Morgan Hill"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "transportation"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "oregonmetro.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Metro (Oregon)"
+            },
+            "state": {
+                "S": "OR"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "hermosabeach.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Hermosa Beach"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "eldorado.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "El Dorado"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityoffayetteville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Fayetteville"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "pensacola.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Pensacola"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cupertino.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Cupertino"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lexington.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lexington-Fayette Urban County Government"
+            },
+            "state": {
+                "S": "KY"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "windhamweb.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Windham"
+            },
+            "state": {
+                "S": "ME"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "erie.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Erie"
+            },
+            "state": {
+                "S": "CO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "temeculaca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Temecula"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "milwaukee.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Milwaukee"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "Canada"
+            },
+            "endpoint": {
+                "S": "parkland.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Parkland"
+            },
+            "state": {
+                "S": "AB"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "durhamcounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Durham"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "fishery management council"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "npfmc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "North Pacific Fishery Management Council"
+            },
+            "state": {
+                "S": "AK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "public utilities commission"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "minnesotapuc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Minnesota Public Uitlities Commission"
+            },
+            "state": {
+                "S": "MN"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "bellevue.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Bellevue"
+            },
+            "state": {
+                "S": "WA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "margatefl.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Margate"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "blaine.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Blaine"
+            },
+            "state": {
+                "S": "MN"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityoflacrosse.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "La Crosse"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "princegeorgescountymd.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Prince George's County"
+            },
+            "state": {
+                "S": "MD"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "keywest.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Key West"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "alleghenycounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Allegheny"
+            },
+            "state": {
+                "S": "PA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "huntingtonbeach.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Huntington Beach"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "newhaven-ct.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "New Haven"
+            },
+            "state": {
+                "S": "CT"
+            }
+        },
+        {
+            "site_type": {
+                "S": "forest preserves"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "fpdcc.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Forest Preserves of Cook County"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "regional transportation planning organization"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "campo.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "NC Capital Area Metropolitan Planning Organization"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "emeryville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Emeryville"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "smyrnacity.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Smyrna"
+            },
+            "state": {
+                "S": "GA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "monterey.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Monterey County"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "groveport.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Groveport"
+            },
+            "state": {
+                "S": "OH"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "stpaul.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "St. Paul"
+            },
+            "state": {
+                "S": "MN"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "newark.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Newark"
+            },
+            "state": {
+                "S": "NJ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "Canada"
+            },
+            "endpoint": {
+                "S": "barrie.ca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Barrie"
+            },
+            "state": {
+                "S": "ON"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "yuma-az.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Yuma"
+            },
+            "state": {
+                "S": "AZ"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "northfield.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Northfield"
+            },
+            "state": {
+                "S": "MN"
+            }
+        },
+        {
+            "site_type": {
+                "S": "sewerage district"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mmsd.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Milwaukee Metropolitan Sewerage District"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "carson.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Carson"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "coloradosprings.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Colorado Springs"
+            },
+            "state": {
+                "S": "CO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "roswell.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Roswell"
+            },
+            "state": {
+                "S": "GA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "ashecounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Ashe"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "castlerock-co.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Castle Rock"
+            },
+            "state": {
+                "S": "CO"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "ircgov.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Indian River County"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "indianwells.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Indian Wells"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofnorthport.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Northport"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cutlerbay.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Cutler Bay"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lake-elsinore.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lake Elsinore"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "annapolismd.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Annapolis"
+            },
+            "state": {
+                "S": "MD"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "hercules.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Hercules"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mysanibel.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Sanibel"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "aquifer authority"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "edwardsaquifer.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Edwards Aquifer Authority"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofseguintx.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Seguin"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "carrboro.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Carrboro"
+            },
+            "state": {
+                "S": "NC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sanbernardino.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "San Bernardino"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "a2gov.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Ann Arbor"
+            },
+            "state": {
+                "S": "MI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "nevco.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Nevada"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "slco.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Salt Lake"
+            },
+            "state": {
+                "S": "UT"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "alachua.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Alachua"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "burlingameca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Burlingame"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "allentownpa.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Allentown"
+            },
+            "state": {
+                "S": "PA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sonoma-county.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Sonoma"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lackawanna.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lackawanna"
+            },
+            "state": {
+                "S": "PA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "hattiesburg.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Hattiesburg"
+            },
+            "state": {
+                "S": "MS"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "jacksonco.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Jackson County"
+            },
+            "state": {
+                "S": "MS"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "phila.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Philadelphia"
+            },
+            "state": {
+                "S": "PA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityoftacoma.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Tacoma"
+            },
+            "state": {
+                "S": "WA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "toledo.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Toledo"
+            },
+            "state": {
+                "S": "OH"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "oak-park.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Oak Park"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "coppell.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Coppell"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "losalamos.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Los Alamos"
+            },
+            "state": {
+                "S": "NM"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "watsonville.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Watsonville"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofdallas.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Dallas"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "Canada"
+            },
+            "endpoint": {
+                "S": "esquimalt.ca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Esquimalt"
+            },
+            "state": {
+                "S": "BC"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "hallandalebeach.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Hallandale Beach"
+            },
+            "state": {
+                "S": "FL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sandyutah.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Sandy"
+            },
+            "state": {
+                "S": "UT"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lassen.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lassen"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofracine.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Racine"
+            },
+            "state": {
+                "S": "WI"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "manteca-ca.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Manteca"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cathedralcity.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Cathedral City"
+            },
+            "state": {
+                "S": "CA"
+            }
+        },
+        {
+            "site_type": {
+                "S": "county"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "lakecounty.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Lake County"
+            },
+            "state": {
+                "S": "IL"
+            }
+        },
+        {
+            "site_type": {
+                "S": "borough"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "sitka.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Sitka"
+            },
+            "state": {
+                "S": "AK"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "mesquite.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Mesquite"
+            },
+            "state": {
+                "S": "TX"
+            }
+        },
+        {
+            "site_type": {
+                "S": "municipality"
+            },
+            "country": {
+                "S": "United States"
+            },
+            "endpoint": {
+                "S": "cityofcommerce.legistar.com/Calendar.aspx"
+            },
+            "name": {
+                "S": "Commerce"
+            },
+            "state": {
+                "S": "CA"
+            }
+        }
+    ],
+    "Count": 310,
+    "ScannedCount": 310
+}

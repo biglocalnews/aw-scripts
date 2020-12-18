@@ -1,4 +1,8 @@
-data/
+data/*
+!data/all-geocodes-v2019.csv
+!data/corrections.csv
+!data/legistar.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
