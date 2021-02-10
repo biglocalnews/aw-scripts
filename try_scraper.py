@@ -23,7 +23,7 @@ import re
 
 def try_scraper(file_in, file_out, metadata_path):
     raw_list = read_file(file_in)
-    test_urls(raw_list[639:640], metadata_path, file_out)
+    test_urls(raw_list, metadata_path, file_out)
 
 def read_file(file_in):
     # Read in each line of the .csv, reformat them and add them to a list
