@@ -1,0 +1,1551 @@
+status_code,history,alias,site,error,years
+200,[<Response [302]>],https://banff.ca/AgendaCenter,http://ab-banff.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.beaumont.ab.ca/AgendaCenter,http://ab-beaumont.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://md.bonnyville.ab.ca/AgendaCenter,http://ab-bonnyville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.brooks.ca/AgendaCenter,http://ab-brooks.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chestermere.ca/AgendaCenter,http://ab-chestermere.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cochrane.ca/AgendaCenter,http://ab-cochrane.civicplus.com/AgendaCenter,,True
+200,,,http://ab-highlevel.civicplus.com/AgendaCenter,,True
+200,,,http://ab-hintoncommunity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://kneehillcounty.com/AgendaCenter,http://ab-kneehillcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mdbighorn.ca/AgendaCenter,http://ab-mdbighorn.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.nanton.ca/AgendaCenter,http://ab-nanton.civicplus.com/AgendaCenter,,True
+403,,,http://ab-rockymountainhouse.civicplus.com/AgendaCenter,,False
+200,[<Response [302]>],https://www.slavelake.ca/AgendaCenter,http://ab-slavelake.civicplus.com/AgendaCenter,,True
+200,,,http://ab-stettlercounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofalabaster.com/AgendaCenter,http://al-alabaster.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.athensalabama.us/AgendaCenter,http://al-athens.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofboaz.org/AgendaCenter,http://al-boaz.civicplus.com/AgendaCenter,,True
+200,,,http://al-calera.civicplus.com/AgendaCenter,,True
+200,,,http://al-coffeecounty.civicplus.com/AgendaCenter,,True
+200,,,http://al-daphne.civicplus.com/AgendaCenter,,True
+200,,,http://al-dothan.civicplus.com/AgendaCenter,,True
+200,,,http://al-gadsden.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gulfshoresal.gov/AgendaCenter,http://al-gulfshores.civicplus.com/AgendaCenter,,True
+200,,,http://al-hoover.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.jacksoncountyal.gov/AgendaCenter,http://al-jacksoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.opelika-al.gov/AgendaCenter,http://al-opelika.civicplus.com/AgendaCenter,,True
+200,,,http://al-shelbycounty.civicplus.com/AgendaCenter,,True
+200,,,http://al-stclaircounty.civicplus.com/AgendaCenter,,True
+200,,,http://ar-bentonville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofbryant.com/AgendaCenter,http://ar-bryant2.civicplus.com/AgendaCenter,,True
+200,,,http://ar-clarksvillelwc.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.garlandcounty.org/AgendaCenter,http://ar-garlandcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityhs.net/AgendaCenter,http://ar-hotsprings.civicplus.com/AgendaCenter,,True
+200,,,http://ar-jacksonville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.maumelle.org/AgendaCenter,http://ar-maumelle.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.nlrha.org/AgendaCenter,http://ar-nlrha.civicplus.com/AgendaCenter,,True
+404,,,http://ar-rogers.civicplus.com/AgendaCenter,,False
+200,,,http://ar-russellville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofsherwood.net/AgendaCenter,http://ar-sherwood.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.siloamsprings.com/AgendaCenter,http://ar-siloamsprings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.springdalear.gov/AgendaCenter,http://ar-springdale.civicplus.com/AgendaCenter,,True
+200,,,http://ar-vanburen.civicplus.com/AgendaCenter,,True
+200,,,http://az-bisbee.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.blackstonehoa.net/AgendaCenter,http://az-blackstoneatvistancia.civicplus.com/AgendaCenter,,True
+200,,,http://az-carefree.civicplus.com/AgendaCenter,,True
+200,,,http://az-chinovalley.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://coconino.az.gov/AgendaCenter,http://az-coconinocounty.civicplus.com/AgendaCenter,,True
+200,,,http://az-cottonwood.civicplus.com/AgendaCenter,,True
+200,,,http://az-douglas.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://eloyaz.gov/AgendaCenter,http://az-eloy.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.flagstaff.az.gov/AgendaCenter,http://az-flagstaff2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fh.az.gov/AgendaCenter,http://az-fountainhills.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gilabendaz.org/AgendaCenter,http://az-gilabend2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.graham.az.gov/AgendaCenter,http://az-grahamcounty.civicplus.com/AgendaCenter,,True
+200,,,http://az-grayhawkcommunityassociation.civicplus.com/AgendaCenter,,True
+200,,,http://az-lapazcounty.civicplus.com/AgendaCenter,,True
+200,,,http://az-litchfieldpark.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://az-maricopacounty.civicplus.com/AgendaCenter,http://az-maricopacounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://az-maricopacountyattorney.civicplus.com/AgendaCenter,http://az-maricopacountyattorney.civicplus.com/AgendaCenter,,True
+200,,,http://az-pinetoplakeside.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mypowerranch.com/AgendaCenter,http://az-powerranchcommunityassociation.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pvaz.net/AgendaCenter,http://az-prescottvalley.civicplus.com/AgendaCenter,,True
+200,,,http://az-safford.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sanluisaz.gov/AgendaCenter,http://az-sanluis.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.santacruzcountyaz.gov/AgendaCenter,http://az-santacruzcounty.civicplus.com/AgendaCenter,,True
+200,,,http://az-showlow.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.surpriseaz.gov/AgendaCenter,http://az-surprise.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.myvistancia.com/AgendaCenter,http://az-villageatvistancia.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.highlands.ca/AgendaCenter,http://bc-highlands.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mapleridge.ca/AgendaCenter,http://bc-mapleridge.civicplus.com/AgendaCenter,,True
+200,,,http://bc-nelson.civicplus.com/AgendaCenter,,True
+200,,,http://bc-salmonarm.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.whiterockcity.ca/AgendaCenter,http://bc-whiterock.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.adelanto.ca.us/AgendaCenter,http://ca-adelanto.civicplus.com/AgendaCenter,,True
+,,,http://ca-alamedacountywater.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,,,http://ca-alpinecounty.civicplus.com/AgendaCenter,,True
+200,,,http://ca-anaheim.civicplus.com/AgendaCenter,,True
+200,,,http://ca-arroyogrande.civicplus.com/AgendaCenter,,True
+200,,,http://ca-artesia.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofavenal.com/AgendaCenter,http://ca-avenal.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bbldwp.com/AgendaCenter,http://ca-bbldwp.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofbelvedere.org/AgendaCenter,http://ca-belvedere.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofblythe.ca.gov/AgendaCenter,http://ca-blythe.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.campbell.ca.us/AgendaCenter,http://ca-campbell.civicplus.com/AgendaCenter,,True
+200,,,http://ca-ceres.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cbwcd.org/AgendaCenter,http://ca-chinobasinwaterdistrict.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chinodesalter.org/AgendaCenter,http://ca-chinodesalter.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chinovalleyfire.org/AgendaCenter,http://ca-chinovalleyifd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityofchowchilla.org/AgendaCenter,http://ca-chowchilla.civicplus.com/AgendaCenter,,True
+200,,,http://ca-citrusheights.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://clearlake.ca.us/AgendaCenter,http://ca-clearlake.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cloverdale.net/AgendaCenter,http://ca-cloverdale.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.colton.ca.us/AgendaCenter,http://ca-colton.civicplus.com/AgendaCenter,,True
+200,,,http://ca-concord.civicplus.com/AgendaCenter,,True
+200,,,http://ca-concordcommunityreuseproject.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.contracosta.ca.gov/AgendaCenter,http://ca-contracostacounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ccwater.com/AgendaCenter,http://ca-contracostawaterdistrict.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.townofcortemadera.org/AgendaCenter,http://ca-cortemadera.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.yourcsd.com/AgendaCenter,http://ca-cosumnescsd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cvwdwater.com/AgendaCenter,http://ca-cucamongavalleywaterdistrict.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofcudahy.com/AgendaCenter,http://ca-cudahy.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.danville.ca.gov/AgendaCenter,http://ca-danville.civicplus.com/AgendaCenter,,True
+200,,,http://ca-delmar.civicplus.com/AgendaCenter,,True
+404,,,http://ca-eastpaloalto.civicplus.com/AgendaCenter,,False
+200,,,http://ca-elmonte.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.emeryville.ca.us/AgendaCenter,http://ca-emeryville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.eastvalley.org/AgendaCenter,http://ca-evwd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.forpd.org/AgendaCenter,http://ca-fairoaksparksandrec.civicplus.com/AgendaCenter,,True
+200,,,http://ca-farmersville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://city.fortbragg.com/AgendaCenter,http://ca-fortbragg.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fountainvalley.org/AgendaCenter,http://ca-fountainvalley.civicplus.com/AgendaCenter,,True
+200,,,http://ca-fountainvalleycommunityfoundation.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fremont.gov/AgendaCenter,http://ca-fremont.civicplus.com/AgendaCenter,,True
+200,,,http://ca-gilroy.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://ci.greenfield.ca.us/AgendaCenter,http://ca-greenfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.haywardrec.org/AgendaCenter,http://ca-haywardrec.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.healdsburg.ca.us/AgendaCenter,http://ca-healdsburg.civicplus.com/AgendaCenter,,True
+200,,,http://ca-heartlandcommunications.civicplus.com/AgendaCenter,,True
+200,,,http://ca-hemet.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hillsborough.net/AgendaCenter,http://ca-hillsborough.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ca-humboldtcounty.civicplus.com/AgendaCenter,http://ca-humboldtcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ca-inglewood.civicplus.com/AgendaCenter,http://ca-inglewood.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ironhousesanitarydistrict.com/AgendaCenter,http://ca-ironhousesanitarydistrict.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.irwindaleca.gov/AgendaCenter,http://ca-irwindale.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.jurupavalley.org/AgendaCenter,http://ca-jurupavalley.civicplus.com/AgendaCenter,,True
+200,,,http://ca-kingsburg.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoflagunaniguel.org/AgendaCenter,http://ca-lagunaniguel3.civicplus.com/AgendaCenter,,True
+200,,,http://ca-lahabra.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoflamesa.us/AgendaCenter,http://ca-lamesa.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoflapalma.org/AgendaCenter,http://ca-lapalma.civicplus.com/AgendaCenter,,True
+200,,,http://ca-losaltoshills.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.losgatosca.gov/AgendaCenter,http://ca-losgatos.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.malibucity.org/AgendaCenter,http://ca-malibu.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmarina.org/AgendaCenter,http://ca-marina.civicplus.com/AgendaCenter,,True
+404,[<Response [302]>],https://www.marinwater.org/AgendaCenter,http://ca-marinwater.civicplus.com/AgendaCenter,,False
+200,,,http://ca-mcag.civicplus.com/AgendaCenter,,True
+200,,,http://ca-mcfarland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmenifee.us/AgendaCenter,http://ca-menifee.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.menlopark.org/AgendaCenter,http://ca-menlopark.civicplus.com/AgendaCenter,,True
+200,,,http://ca-mercedthebus2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mmasc.org/AgendaCenter,http://ca-mmasc.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.modestogov.com/AgendaCenter,http://ca-modesto.civicplus.com/AgendaCenter,,True
+200,,,http://ca-montereypark.civicplus.com/AgendaCenter,,True
+200,,,http://ca-moorpark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.murrietaca.gov/AgendaCenter,http://ca-murrieta.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ca-napacounty.civicplus.com/AgendaCenter,http://ca-napacounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mynevadacounty.com/AgendaCenter,http://ca-nevadacounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoforange.org/AgendaCenter,http://ca-orange.civicplus.com/AgendaCenter,,True
+200,,,http://ca-orinda.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.padredam.org/AgendaCenter,http://ca-padredam.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityofpalmdale.org/AgendaCenter,http://ca-palmdale.civicplus.com/AgendaCenter,,True
+200,,,http://ca-paloverdehealth.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.prcity.com/AgendaCenter,http://ca-pasorobles.civicplus.com/AgendaCenter,,True
+200,,,http://ca-patterson.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ca-placercounty.civicplus.com/AgendaCenter,http://ca-placercounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://pleasanthillrec.com/AgendaCenter,http://ca-pleasanthillrecreation.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.portsanluis.com/AgendaCenter,http://ca-portsanluis.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ranchowater.com/AgendaCenter,http://ca-ranchowater.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.riverbank.org/AgendaCenter,http://ca-riverbank.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.townofsananselmo.org/AgendaCenter,http://ca-sananselmo.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://sfrecpark.org/AgendaCenter,http://ca-sanfranciscorecandparks.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sangabrielcity.com/AgendaCenter,http://ca-sangabriel.civicplus.com/AgendaCenter,,True
+200,,,http://ca-sanger.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.smwd.com/AgendaCenter,http://ca-santamargaritawaterdistrict.civicplus.com/AgendaCenter,,True
+200,,,http://ca-santaynezcsd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.saratoga.ca.us/AgendaCenter,http://ca-saratoga.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sbmwd.org/AgendaCenter,http://ca-sbmwd.civicplus.com/AgendaCenter,,True
+200,,,http://ca-scottsvalley.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.scv-habitatagency.org/AgendaCenter,http://ca-scvhabitatagency.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sfidwater.org/AgendaCenter,http://ca-sfidwater.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sidwater.org/AgendaCenter,http://ca-sid.civicplus.com/AgendaCenter,,True
+200,,,http://ca-sierracounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sjcog.org/AgendaCenter,http://ca-sjcog.civicplus.com/AgendaCenter,,True
+200,,,http://ca-solvang.civicplus.com/AgendaCenter,,True
+200,,,http://ca-southgate.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.srta.ca.gov/AgendaCenter,http://ca-srta.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sweetwater.org/AgendaCenter,http://ca-sweetwaterauthority.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.liveuptehachapi.com/AgendaCenter,http://ca-tehachapi2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.liveuptehachapi.com/AgendaCenter,http://ca-tehachapicityhall.civicplus.com/AgendaCenter,,True
+200,,,http://ca-templetoncsd.civicplus.com/AgendaCenter,,True
+200,,,http://ca-tiburon.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.tuolumnecounty.ca.gov/AgendaCenter,http://ca-tuolumnecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ca-ventura.civicplus.com/AgendaCenter,http://ca-ventura.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofwatsonville.org/AgendaCenter,http://ca-watsonville.civicplus.com/AgendaCenter,,True
+200,,,http://ca-willits.civicplus.com/AgendaCenter,,True
+200,,,http://ca-wiyottribe.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.wmwd.com/AgendaCenter,http://ca-wmwd.civicplus.com/AgendaCenter,,True
+200,,,http://ca-woodland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://wrcog.us/AgendaCenter,http://ca-wrcog.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ca-yubacountywater.civicplus.com/AgendaCenter,http://ca-yubacountywater.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.apcha.org/AgendaCenter,http://co-apcha.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.arapahoegov.com/AgendaCenter,http://co-arapahoecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.acwwa.com/AgendaCenter,http://co-arapahoecountywwa.civicplus.com/AgendaCenter,,True
+,,,http://co-archuletacounty.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,[<Response [302]>],https://www.cityofaspen.com/AgendaCenter,http://co-aspen.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.basalt.net/AgendaCenter,http://co-basalt.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.brightonco.gov/AgendaCenter,http://co-brighton.civicplus.com/AgendaCenter,,True
+200,,,http://co-brightonura.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.broomfield.org/AgendaCenter,http://co-broomfield.civicplus.com/AgendaCenter,,True
+200,,,http://co-buenavista.civicplus.com/AgendaCenter,,True
+200,,,http://co-burlington.civicplus.com/AgendaCenter,,True
+200,,,http://co-cherryhillsvillage.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cordilleraliving.com/AgendaCenter,http://co-cordillerametrodistrict.civicplus.com/AgendaCenter,,True
+200,,,http://co-cortez.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofdacono.com/AgendaCenter,http://co-dacono2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.deltacounty.com/AgendaCenter,http://co-deltacounty2.civicplus.com/AgendaCenter,,True
+200,,,http://co-elpasoteller911.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fffd.us/AgendaCenter,http://co-fffd.civicplus.com/AgendaCenter,,True
+200,,,http://co-fortlupton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.frasercolorado.com/AgendaCenter,http://co-fraser.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.frederickco.gov/AgendaCenter,http://co-frederick.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.glendale.co.us/AgendaCenter,http://co-glendale.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gwsco.gov/AgendaCenter,http://co-glenwoodsprings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.grand.co.us/AgendaCenter,http://co-grandcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gunnisoncounty.org/AgendaCenter,http://co-gunnisoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://co-jeffersoncounty.civicplus.com/AgendaCenter,http://co-jeffersoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://co-kersey.civicplus.com/AgendaCenter,,True
+200,,,http://co-lakedillonfirerescue.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.townoflyons.com/AgendaCenter,http://co-lyons.civicplus.com/AgendaCenter,,True
+404,[<Response [301]>],https://co-manitousprings.civicplus.com/AgendaCenter,http://co-manitousprings.civicplus.com/AgendaCenter,,False
+200,,,http://co-mmc.civicplus.com/AgendaCenter,,True
+200,,,http://co-morrison.civicplus.com/AgendaCenter,,True
+200,,,http://co-orchardcity.civicplus.com/AgendaCenter,,True
+200,,,http://co-ouraycounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://parkco.us/AgendaCenter,http://co-parkcounty.civicplus.com/AgendaCenter,,True
+200,,,http://co-parker3.civicplus.com/AgendaCenter,,True
+200,,,http://co-pikespeakboces.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pueblo.us/AgendaCenter,http://co-pueblo.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pueblosheriff.com/AgendaCenter,http://co-pueblocountysheriff.civicplus.com/AgendaCenter,,True
+200,,,http://co-pueblowest.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rbc.us/AgendaCenter,http://co-rioblancocounty.civicplus.com/AgendaCenter,,True
+,,,http://co-routtcounty.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,[<Response [302]>],https://www.rwbfire.org/AgendaCenter,http://co-rwbfiredistrict.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sacwsd.org/AgendaCenter,http://co-sacwsd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sanmiguelcountyco.gov/AgendaCenter,http://co-sanmiguelcounty2.civicplus.com/AgendaCenter,,True
+200,,,http://co-smfara.civicplus.com/AgendaCenter,,True
+200,,,http://co-southgatewsd.civicplus.com/AgendaCenter,,True
+200,,,http://co-steamboatsprings.civicplus.com/AgendaCenter,,True
+,,,http://co-summitcounty.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,,,http://co-wellington.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.wheatridge.co.us/AgendaCenter,http://co-wheatridge.civicplus.com/AgendaCenter,,True
+,,,http://ct-bristol.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,[<Response [302]>],https://clintonct.org/AgendaCenter,http://ct-clinton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.coventryct.org/AgendaCenter,http://ct-coventry.civicplus.com/AgendaCenter,,True
+404,,,http://ct-ellington.civicplus.com/AgendaCenter,,False
+404,,,http://ct-ellingtonlibrary.civicplus.com/AgendaCenter,,False
+200,,,http://ct-enfield.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ct-greenwich.civicplus.com/AgendaCenter,http://ct-greenwich.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hamden.com/AgendaCenter,http://ct-hamden.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.madisonct.org/AgendaCenter,http://ct-madison.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.newingtonct.gov/AgendaCenter,http://ct-newington.civicplus.com/AgendaCenter,,True
+200,,,http://ct-norwich.civicplus.com/AgendaCenter,,True
+200,,,http://ct-orange.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.preston-ct.org/AgendaCenter,http://ct-preston.civicplus.com/AgendaCenter,,True
+200,,,http://ct-westbrook.civicplus.com/AgendaCenter,,True
+200,,,http://ct-westhaven.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.woodbridgect.org/AgendaCenter,http://ct-woodbridge.civicplus.com/AgendaCenter,,True
+200,,,http://de-bethanybeach.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.nccde.org/AgendaCenter,http://de-newcastlecounty.civicplus.com/AgendaCenter,,True
+200,,,http://dev135.civicplus.com/AgendaCenter,,True
+200,,,http://fl-altamontesprings.civicplus.com/AgendaCenter,,True
+200,,,http://fl-atlanticbeach.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.baycountyfl.gov/AgendaCenter,http://fl-baycounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bayharborislands-fl.gov/AgendaCenter,http://fl-bayharborislands.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofcallaway.com/AgendaCenter,http://fl-callaway.civicplus.com/AgendaCenter,,True
+200,,,http://fl-chipley.civicplus.com/AgendaCenter,,True
+200,,,http://fl-crestview.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://fl-davie.civicplus.com/AgendaCenter,http://fl-davie.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofdestin.com/AgendaCenter,http://fl-destin.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.dunnellon.org/AgendaCenter,http://fl-dunnellon.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.escambiaclerk.com/AgendaCenter,http://fl-escambiacountyclerk.civicplus.com/AgendaCenter,,True
+200,,,http://fl-fernandinabeach.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityftmyers.com/AgendaCenter,http://fl-fortmyers.civicplus.com/AgendaCenter,,True
+200,,,http://fl-fortmyersbeach.civicplus.com/AgendaCenter,,True
+200,,,http://fl-groveland.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://fl-hialeah.civicplus.com/AgendaCenter,http://fl-hialeah.civicplus.com/AgendaCenter,,True
+200,,,http://fl-hollywood.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.myindianshores.com/AgendaCenter,http://fl-indianshores.civicplus.com/AgendaCenter,,True
+,,,http://fl-jupiter.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,[<Response [302]>],https://www.lakewalesfl.gov/AgendaCenter,http://fl-lakewales.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lauderdalebythesea-fl.gov/AgendaCenter,http://fl-lauderdalebythesea.civicplus.com/AgendaCenter,,True
+200,,,http://fl-lauderdalelakes.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.longwoodfl.org/AgendaCenter,http://fl-longwood.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmarianna.com/AgendaCenter,http://fl-marianna.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmaryesther.com/AgendaCenter,http://fl-maryesther.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.miamigardens-fl.gov/AgendaCenter,http://fl-miamigardens.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.miltonfl.org/AgendaCenter,http://fl-milton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.miramarfl.gov/AgendaCenter,http://fl-miramar.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofnsb.com/AgendaCenter,http://fl-newsmyrnabeach.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityofniceville.org/AgendaCenter,http://fl-niceville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.northmiamifl.gov/AgendaCenter,http://fl-northmiami.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://fl-northmiamibeach.civicplus.com/AgendaCenter,http://fl-northmiamibeach.civicplus.com/AgendaCenter,,True
+,,,http://fl-northpalmbeach.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,[<Response [302]>],https://www.oaklandfl.gov/AgendaCenter,http://fl-oakland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.oaklandparkfl.gov/AgendaCenter,http://fl-oaklandpark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.myoldsmar.com/AgendaCenter,http://fl-oldsmar.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://palatka-fl.gov/AgendaCenter,http://fl-palatka.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.vpsfl.org/AgendaCenter,http://fl-palmsprings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pcgov.org/AgendaCenter,http://fl-panamacity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pascocountyfl.net/AgendaCenter,http://fl-pascocounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ppines.com/AgendaCenter,http://fl-pembrokepines.civicplus.com/AgendaCenter,,True
+200,,,http://fl-pembrokepinesavmshs.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofpensacola.com/AgendaCenter,http://fl-pensacola.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.portofpalmbeach.com/AgendaCenter,http://fl-portofpalmbeach.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://fl-portorange.civicplus.com/AgendaCenter,http://fl-portorange.civicplus.com/AgendaCenter,,True
+200,,,http://fl-rockledge.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mysebring.com/AgendaCenter,http://fl-sebring.civicplus.com/AgendaCenter,,True
+200,,,http://fl-snldistrict.civicplus.com/AgendaCenter,,True
+200,,,http://fl-southmiami.civicplus.com/AgendaCenter,,True
+200,,,http://fl-stluciecountyfd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sumtercountyfl.gov/AgendaCenter,http://fl-sumtercounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mysuwanneeriver.com/AgendaCenter,http://fl-suwanneeriver.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://swa.org/AgendaCenter,http://fl-swa.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.westmelbourne.org/AgendaCenter,http://fl-westmelbourne.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.wiltonmanors.com/AgendaCenter,http://fl-wiltonmanors.civicplus.com/AgendaCenter,,True
+200,,,http://fl-wintergarden.civicplus.com/AgendaCenter,,True
+200,,,http://fl-zephyrhills.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.accgov.com/AgendaCenter,http://ga-athensclarkecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.avondaleestates.org/AgendaCenter,http://ga-avondaleestates.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.camdencountyga.gov/AgendaCenter,http://ga-camdencounty.civicplus.com/AgendaCenter,,True
+200,,,http://ga-carrollcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://charltoncountyga.us/AgendaCenter,http://ga-charltoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://classiccenter.com/AgendaCenter,http://ga-classiccenter.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.corneliageorgia.org/AgendaCenter,http://ga-cornelia.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.dadecounty-ga.gov/AgendaCenter,http://ga-dadecounty.civicplus.com/AgendaCenter,,True
+200,,,http://ga-effinghamcounty.civicplus.com/AgendaCenter,,True
+200,,,http://ga-emanuelcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://ga-fairburn.civicplus.com/AgendaCenter,http://ga-fairburn.civicplus.com/AgendaCenter,,True
+200,,,http://ga-fultoncountymagistratecourt.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://glynncounty.org/AgendaCenter,http://ga-glynncounty.civicplus.com/AgendaCenter,,True
+200,,,http://ga-grovetown.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ga-hallcounty.civicplus.com/AgendaCenter,http://ga-hallcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hamptonga.gov/AgendaCenter,http://ga-hampton.civicplus.com/AgendaCenter,,True
+200,,,http://ga-hapeville.civicplus.com/AgendaCenter,,True
+200,,,http://ga-hinesville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofjacksonga.com/AgendaCenter,http://ga-jackson.civicplus.com/AgendaCenter,,True
+200,,,http://ga-jacksoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://ga-jesup.civicplus.com/AgendaCenter,,True
+200,,,http://ga-laurenscounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoflilburn.com/AgendaCenter,http://ga-lilburn2.civicplus.com/AgendaCenter,,True
+200,,,http://ga-lovejoy2.civicplus.com/AgendaCenter,,True
+200,,,http://ga-lowndescounty.civicplus.com/AgendaCenter,,True
+200,,,http://ga-marietta.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.morgancountyga.gov/AgendaCenter,http://ga-morgancounty.civicplus.com/AgendaCenter,,True
+200,,,http://ga-newtoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.oconeecounty.com/AgendaCenter,http://ga-oconeecounty.civicplus.com/AgendaCenter,,True
+200,,,http://ga-pauldingcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofpowdersprings.org/AgendaCenter,http://ga-powdersprings.civicplus.com/AgendaCenter,,True
+200,,,http://ga-richmondhill.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.savannahga.gov/AgendaCenter,http://ga-savannah.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ga-southfulton.civicplus.com/AgendaCenter,http://ga-southfulton.civicplus.com/AgendaCenter,,True
+200,,,http://ga-upsoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.waltoncountyga.gov/AgendaCenter,http://ga-waltoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.waynesboroga.com/AgendaCenter,http://ga-waynesboro.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.blackhawkcounty.iowa.gov/AgendaCenter,http://ia-blackhawkcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofcharlescity.org/AgendaCenter,http://ia-charlescity.civicplus.com/AgendaCenter,,True
+200,,,http://ia-claytoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.coralville.org/AgendaCenter,http://ia-coralville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.councilbluffs-ia.gov/AgendaCenter,http://ia-councilbluffs.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.desmoinescounty.iowa.gov/AgendaCenter,http://ia-desmoinescounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.floydco.iowa.gov/AgendaCenter,http://ia-floydcounty.civicplus.com/AgendaCenter,,True
+200,,,http://ia-fortmadison.civicplus.com/AgendaCenter,,True
+200,,,http://ia-gilbert.civicplus.com/AgendaCenter,,True
+200,,,http://ia-grinnell.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hardincountyia.gov/AgendaCenter,http://ia-hardincounty.civicplus.com/AgendaCenter,,True
+200,,,http://ia-indianola.civicplus.com/AgendaCenter,,True
+200,,,http://ia-jaspercounty.civicplus.com/AgendaCenter,,True
+200,,,http://ia-johnston.civicplus.com/AgendaCenter,,True
+200,,,http://ia-knoxville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.leclaireiowa.gov/AgendaCenter,http://ia-leclaire.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lemarsiowa.com/AgendaCenter,http://ia-lemars.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.linncounty-ia.gov/AgendaCenter,http://ia-linncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.marshalltown-ia.gov/AgendaCenter,http://ia-marshalltown.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.muscatinecountyiowa.gov/AgendaCenter,http://ia-muscatinecounty.civicplus.com/AgendaCenter,,True
+200,,,http://ia-muscatinecvb.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.newtongov.org/AgendaCenter,http://ia-newton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.oskaloosaiowa.org/AgendaCenter,http://ia-oskaloosa.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofpella.com/AgendaCenter,http://ia-pella.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pleasanthilliowa.org/AgendaCenter,http://ia-pleasanthill.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.siouxcenter.org/AgendaCenter,http://ia-siouxcenter.civicplus.com/AgendaCenter,,True
+200,,,http://ia-solon.civicplus.com/AgendaCenter,,True
+200,,,http://ia-storycounty.civicplus.com/AgendaCenter,,True
+200,,,http://ia-strawberrypoint.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.urbandale.org/AgendaCenter,http://ia-urbandale.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.washingtoncounty.iowa.gov/AgendaCenter,http://ia-washingtoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.waukee.org/AgendaCenter,http://ia-waukee.civicplus.com/AgendaCenter,,True
+200,,,http://ia-windsorheights.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.blaine.id.us/AgendaCenter,http://id-blainecounty.civicplus.com/AgendaCenter,,True
+200,,,http://id-goodingcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://id-idahofalls.civicplus.com/AgendaCenter,http://id-idahofalls.civicplus.com/AgendaCenter,,True
+200,,,http://id-jerome.civicplus.com/AgendaCenter,,True
+200,,,http://id-jeromecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.kcgov.us/AgendaCenter,http://id-kootenaicounty.civicplus.com/AgendaCenter,,True
+200,,,http://id-kuna.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.minidoka.id.us/AgendaCenter,http://id-minidokacounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.moscow.id.us/AgendaCenter,http://id-moscow.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofnampa.us/AgendaCenter,http://id-nampa.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pocatello.us/AgendaCenter,http://id-pocatello.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.washington.id.us/AgendaCenter,http://id-washingtoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://il-aledo.civicplus.com/AgendaCenter,,True
+200,,,http://il-apco.civicplus.com/AgendaCenter,,True
+200,"[<Response [301]>, <Response [301]>]",https://www.aurora-il.org/AgendaCenter,http://il-aurora.civicplus.com/AgendaCenter,,True
+200,,,http://il-batavia.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.belleville.net/AgendaCenter,http://il-belleville.civicplus.com/AgendaCenter,,True
+200,,,http://il-bloomingdale.civicplus.com/AgendaCenter,,True
+200,,,http://il-carbondale.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cville.org/AgendaCenter,http://il-carpentersville.civicplus.com/AgendaCenter,,True
+200,,,http://il-chicagoheights.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.clarendonhills.us/AgendaCenter,http://il-clarendonhills.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.columbiaillinois.com/AgendaCenter,http://il-columbia.civicplus.com/AgendaCenter,,True
+200,,,http://il-cresthill.civicplus.com/AgendaCenter,,True
+200,,,http://il-deerfield.civicplus.com/AgendaCenter,,True
+200,,,http://il-deerpark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofdekalb.com/AgendaCenter,http://il-dekalb.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.eastmoline.com/AgendaCenter,http://il-eastmoline.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofeastpeoria.com/AgendaCenter,http://il-eastpeoria.civicplus.com/AgendaCenter,,True
+200,,,http://il-eaststlouis.civicplus.com/AgendaCenter,,True
+200,,,http://il-elpaso.civicplus.com/AgendaCenter,,True
+200,,,http://il-elwood.civicplus.com/AgendaCenter,,True
+200,,,http://il-fairviewheights.civicplus.com/AgendaCenter,,True
+200,,,http://il-flossmoor.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.geneva.il.us/AgendaCenter,http://il-geneva.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hpil.org/AgendaCenter,http://il-hanoverpark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofhighwood.com/AgendaCenter,http://il-highwood.civicplus.com/AgendaCenter,,True
+200,,,http://il-homerglen.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.indianheadpark-il.gov/AgendaCenter,http://il-indianheadpark.civicplus.com/AgendaCenter,,True
+200,,,http://il-itasca.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.itascaparkdistrict.com/AgendaCenter,http://il-itascaparkdistrict.civicplus.com/AgendaCenter,,True
+200,,,http://il-lagrangepark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.alfpd.org/AgendaCenter,http://il-lakeinthehillsfpd.civicplus.com/AgendaCenter,,True
+200,,,http://il-libertyville.civicplus.com/AgendaCenter,,True
+200,,,http://il-lockport.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmarkham.net/AgendaCenter,http://il-markham.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mtfpd.org/AgendaCenter,http://il-mchenryfpd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://health.mcleancountyil.gov/AgendaCenter,http://il-mcleancountyhealth.civicplus.com/AgendaCenter,,True
+200,,,http://il-midlothian2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.molinelibrary.com/AgendaCenter,http://il-molinelibrary.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.montgomeryil.org/AgendaCenter,http://il-montgomery.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.newtriertownship.com/AgendaCenter,http://il-newtrier.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.vniles.com/AgendaCenter,http://il-niles.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.northbrook.il.us/AgendaCenter,http://il-northbrook.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.northfieldil.org/AgendaCenter,http://il-northfield.civicplus.com/AgendaCenter,,True
+200,,,http://il-oakforest.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.olympia-fields.com/AgendaCenter,http://il-olympiafields.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://palosheights.org/AgendaCenter,http://il-palosheights.civicplus.com/AgendaCenter,,True
+200,,,http://il-palospark.civicplus.com/AgendaCenter,,True
+200,,,http://il-parkforest.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.peoriacounty.org/AgendaCenter,http://il-peoriacounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.peoriaelections.org/AgendaCenter,http://il-peoriacountyelections.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pcchd.org/AgendaCenter,http://il-peoriacountypcchd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.villageofpingreegrove.org/AgendaCenter,http://il-pingreegrove.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofplanoil.com/AgendaCenter,http://il-plano.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pontiac.org/AgendaCenter,http://il-pontiac.civicplus.com/AgendaCenter,,True
+200,,,http://il-pontoonbeach.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.prospect-heights.il.us/AgendaCenter,http://il-prospectheights.civicplus.com/AgendaCenter,,True
+200,,,http://il-rantoul.civicplus.com/AgendaCenter,,True
+200,,,http://il-rivergrove.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.riverside.il.us/AgendaCenter,http://il-riverside.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rigov.org/AgendaCenter,http://il-rockisland.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://il-rockislandcountymtd.civicplus.com/AgendaCenter,http://il-rockislandcountymtd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityrm.org/AgendaCenter,http://il-rollingmeadows.civicplus.com/AgendaCenter,,True
+,,,http://il-roselle.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,,,http://il-roundlakebeach.civicplus.com/AgendaCenter,,True
+200,,,http://il-schillerpark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.skokie.org/AgendaCenter,http://il-skokie.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://summit-il.org/AgendaCenter,http://il-summit.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.tazewellhealth.org/AgendaCenter,http://il-tazewellcountyhealth.civicplus.com/AgendaCenter,,True
+200,,,http://il-troy.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.vernonhills.org/AgendaCenter,http://il-vernonhills.civicplus.com/AgendaCenter,,True
+200,,,http://il-vernontownship.civicplus.com/AgendaCenter,,True
+200,,,http://il-villapark.civicplus.com/AgendaCenter,,True
+200,,,http://il-volo.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.warrenville.il.us/AgendaCenter,http://il-warrenville.civicplus.com/AgendaCenter,,True
+404,,,http://il-wauconda.civicplus.com/AgendaCenter,,False
+,,,http://il-waukegan.civicplus.com/AgendaCenter,"HTTPSConnectionPool(host='www.waukeganil.gov', port=443): Max retries exceeded with url: /AgendaCenter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",
+200,[<Response [302]>],https://www.waukegantownship.com/AgendaCenter,http://il-waukegantownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://wsprings.com/AgendaCenter,http://il-westernsprings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://westmont.illinois.gov/AgendaCenter,http://il-westmont.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.wheaton.il.us/AgendaCenter,http://il-wheaton.civicplus.com/AgendaCenter,,True
+200,,,http://il-wheeling.civicplus.com/AgendaCenter,,True
+200,,,http://il-woodfordcounty.civicplus.com/AgendaCenter,,True
+200,,,http://il-worth.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.adams.in.us/AgendaCenter,http://in-adamscounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofanderson.com/AgendaCenter,http://in-anderson.civicplus.com/AgendaCenter,,True
+200,,,http://in-burnsharbor.civicplus.com/AgendaCenter,,True
+200,,,http://in-chesterton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.eastchicago.com/AgendaCenter,http://in-eastchicago.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fishers.in.us/AgendaCenter,http://in-fishers.civicplus.com/AgendaCenter,,True
+200,,,http://in-fishersportal.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hamiltoncounty.in.gov/AgendaCenter,http://in-hamiltoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://in-hobart.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://jeffersoncounty.in.gov/AgendaCenter,http://in-jeffersoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://in-lafayette.civicplus.com/AgendaCenter,,True
+200,,,http://in-laporte.civicplus.com/AgendaCenter,,True
+200,,,http://in-madison.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.miamicountyin.gov/AgendaCenter,http://in-miamicounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.emichigancity.com/AgendaCenter,http://in-michigancity.civicplus.com/AgendaCenter,,True
+200,,,http://in-portercounty.civicplus.com/AgendaCenter,,True
+200,,,http://in-stateroad37portal.civicplus.com/AgendaCenter,,True
+200,,,http://in-stigmafreefishersportal.civicplus.com/AgendaCenter,,True
+200,,,http://in-stjosephcounty.civicplus.com/AgendaCenter,,True
+200,,,http://in-tippecanoecounty.civicplus.com/AgendaCenter,,True
+200,,,http://in-valparaiso.civicplus.com/AgendaCenter,,True
+200,,,http://in-valparaisoutilities.civicplus.com/AgendaCenter,,True
+200,,,http://in-washingtontownship.civicplus.com/AgendaCenter,,True
+200,,,http://in-zionsville.civicplus.com/AgendaCenter,,True
+200,,,http://ks-abilene.civicplus.com/AgendaCenter,,True
+200,,,http://ks-atchisoncounty3.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.baldwincity.gov/AgendaCenter,http://ks-baldwincity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofbasehor.org/AgendaCenter,http://ks-basehor.civicplus.com/AgendaCenter,,True
+200,,,http://ks-belaire.civicplus.com/AgendaCenter,,True
+200,,,http://ks-beloit.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bonnersprings.org/AgendaCenter,http://ks-bonnersprings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bucoks.com/AgendaCenter,http://ks-butlercounty.civicplus.com/AgendaCenter,,True
+200,,,http://ks-chanute.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.claycountykansas.org/AgendaCenter,http://ks-claycounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityofcolby.com/AgendaCenter,http://ks-colby2.civicplus.com/AgendaCenter,,True
+200,,,http://ks-derby.civicplus.com/AgendaCenter,,True
+200,,,http://ks-derbyportal.civicplus.com/AgendaCenter,,True
+200,,,http://ks-derbyreccommission.civicplus.com/AgendaCenter,,True
+200,,,http://ks-desoto.civicplus.com/AgendaCenter,,True
+200,,,http://ks-dickinsoncounty3.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.dodgecity.org/AgendaCenter,http://ks-dodgecity3.civicplus.com/AgendaCenter,,True
+200,,,http://ks-edwardsville.civicplus.com/AgendaCenter,,True
+200,,,http://ks-eldorado.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.eldoradochamber.com/AgendaCenter,http://ks-eldoradochamber.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ellisco.net/AgendaCenter,http://ks-elliscounty2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.emporiarec.org/AgendaCenter,http://ks-emporiarec.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofeudoraks.gov/AgendaCenter,http://ks-eudora.civicplus.com/AgendaCenter,,True
+200,,,http://ks-fordcounty.civicplus.com/AgendaCenter,,True
+200,,,http://ks-fortscott.civicplus.com/AgendaCenter,,True
+200,,,http://ks-franklincounty.civicplus.com/AgendaCenter,,True
+200,,,http://ks-fredonia2.civicplus.com/AgendaCenter,,True
+200,,,http://ks-gardencityreccommission.civicplus.com/AgendaCenter,,True
+200,,,http://ks-girard.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.goddardks.gov/AgendaCenter,http://ks-goddard.civicplus.com/AgendaCenter,,True
+200,,,http://ks-grant2.civicplus.com/AgendaCenter,,True
+200,,,http://ks-grantcounty2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.greatbendks.net/AgendaCenter,http://ks-greatbend.civicplus.com/AgendaCenter,,True
+200,,,http://ks-harpercounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.haysusa.com/AgendaCenter,http://ks-hays.civicplus.com/AgendaCenter,,True
+200,,,http://ks-hutchinson.civicplus.com/AgendaCenter,,True
+200,,,http://ks-independence.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofiola.com/AgendaCenter,http://ks-iola.civicplus.com/AgendaCenter,,True
+200,,,http://ks-jeffersoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ks-johnsoncountyparkandrec.civicplus.com/AgendaCenter,http://ks-johnsoncountyparkandrec.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://kslib.info/AgendaCenter,http://ks-kansaslibrary.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.kechiks.gov/AgendaCenter,http://ks-kechi.civicplus.com/AgendaCenter,,True
+403,,,http://ks-lansing.civicplus.com/AgendaCenter,,False
+200,,,http://ks-larned.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://ldchealth.org/AgendaCenter,http://ks-ldchd.civicplus.com/AgendaCenter,,True
+200,,,http://ks-liberal.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://louisburgkansas.gov/AgendaCenter,http://ks-louisburg.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.merriam.org/AgendaCenter,http://ks-merriam.civicplus.com/AgendaCenter,,True
+200,,,http://ks-miamicounty.civicplus.com/AgendaCenter,,True
+200,,,http://ks-missionhills2.civicplus.com/AgendaCenter,,True
+200,,,http://ks-moundridge.civicplus.com/AgendaCenter,,True
+200,,,http://ks-oakley.civicplus.com/AgendaCenter,,True
+403,,,http://ks-osawatomie.civicplus.com/AgendaCenter,,False
+200,[<Response [302]>],https://www.parkcityks.gov/AgendaCenter,http://ks-parkcity2.civicplus.com/AgendaCenter,,True
+403,,,http://ks-parsons.civicplus.com/AgendaCenter,,False
+200,[<Response [302]>],https://cityofphillipsburg.com/AgendaCenter,http://ks-phillipsburg.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pottcounty.org/AgendaCenter,http://ks-pottawatomiecounty.civicplus.com/AgendaCenter,,True
+200,,,http://ks-prattcounty.civicplus.com/AgendaCenter,,True
+200,,,http://ks-russell.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.springhillks.gov/AgendaCenter,http://ks-springhill.civicplus.com/AgendaCenter,,True
+200,,,http://ks-springhillrec.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://valleycenterks.org/AgendaCenter,http://ks-valleycenter2.civicplus.com/AgendaCenter,,True
+200,,,http://ky-crestviewhills.civicplus.com/AgendaCenter,,True
+200,,,http://ky-frankfort.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofhendersonky.org/AgendaCenter,http://ky-henderson2.civicplus.com/AgendaCenter,,True
+200,,,http://ky-hendersoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://ky-winchester2.civicplus.com/AgendaCenter,,True
+200,,,http://la-assumptionparishpolicejury.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://la-batonrouge.civicplus.com/AgendaCenter,http://la-batonrouge.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bossiercity.org/AgendaCenter,http://la-bossiercity.civicplus.com/AgendaCenter,,True
+200,,,http://la-caddoparish.civicplus.com/AgendaCenter,,True
+200,,,http://la-deridder.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.leesvillela.gov/AgendaCenter,http://la-leesville.civicplus.com/AgendaCenter,,True
+200,,,http://la-plaquemine.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.shreveportla.gov/AgendaCenter,http://la-shreveport.civicplus.com/AgendaCenter,,True
+200,,,http://la-shreveportairport.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sbpg.net/AgendaCenter,http://la-stbernardparish.civicplus.com/AgendaCenter,,True
+200,,,http://la-stjamesparish.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://actoncoa.com/AgendaCenter,http://ma-actonseniorcenter.civicplus.com/AgendaCenter,,True
+200,,,http://ma-agawam.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://andoverma.gov/AgendaCenter,http://ma-andover.civicplus.com/AgendaCenter,,True
+200,,,http://ma-andoverpublicschools.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ashlandmass.com/AgendaCenter,http://ma-ashland.civicplus.com/AgendaCenter,,True
+200,,,http://ma-attleboro.civicplus.com/AgendaCenter,,True
+200,,,http://ma-billerica.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://braintreema.gov/AgendaCenter,http://ma-braintree.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.brooklinema.gov/AgendaCenter,http://ma-brookline.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.town.canton.ma.us/AgendaCenter,http://ma-canton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.carlislema.gov/AgendaCenter,http://ma-carlisle.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.townofchelmsford.us/AgendaCenter,http://ma-chelmsford.civicplus.com/AgendaCenter,,True
+200,,,http://ma-chicopee.civicplus.com/AgendaCenter,,True
+200,,,http://ma-cohasset.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://concordma.gov/AgendaCenter,http://ma-concord.civicplus.com/AgendaCenter,,True
+200,,,http://ma-douglas.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.eastlongmeadowma.gov/AgendaCenter,http://ma-eastlongmeadow.civicplus.com/AgendaCenter,,True
+200,,,http://ma-everett.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.falmouthma.gov/AgendaCenter,http://ma-falmouth.civicplus.com/AgendaCenter,,True
+200,,,http://ma-fitchburg.civicplus.com/AgendaCenter,,True
+200,,,http://ma-gardner.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hingham-ma.gov/AgendaCenter,http://ma-hingham.civicplus.com/AgendaCenter,,True
+200,,,http://ma-hinghamlibrary.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ipswichma.gov/AgendaCenter,http://ma-ipswich.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.joneslibrary.org/AgendaCenter,http://ma-joneslibrary.civicplus.com/AgendaCenter,,True
+200,,,http://ma-lawrence.civicplus.com/AgendaCenter,,True
+200,,,http://ma-lincoln.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.longmeadow.org/AgendaCenter,http://ma-longmeadow.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lowellma.gov/AgendaCenter,http://ma-lowell.civicplus.com/AgendaCenter,,True
+200,,,http://ma-lowellhsproject.civicplus.com/AgendaCenter,,True
+200,,,http://ma-manchesterbythesea.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mansfieldma.com/AgendaCenter,http://ma-mansfield.civicplus.com/AgendaCenter,,True
+200,,,http://ma-medfield.civicplus.com/AgendaCenter,,True
+200,,,http://ma-merrimac.civicplus.com/AgendaCenter,,True
+200,,,http://ma-middleborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://middletonma.gov/AgendaCenter,http://ma-middleton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.nantucket-ma.gov/AgendaCenter,http://ma-nantucket.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.natickma.gov/AgendaCenter,http://ma-natick.civicplus.com/AgendaCenter,,True
+200,,,http://ma-needham.civicplus.com/AgendaCenter,,True
+200,,,http://ma-northampton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.oakbluffsma.gov/AgendaCenter,http://ma-oakbluffs.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://town.pepperell.ma.us/AgendaCenter,http://ma-pepperell.civicplus.com/AgendaCenter,,True
+200,,,http://ma-provincetown.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sandwichmass.org/AgendaCenter,http://ma-sandwich.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://shrewsburyma.gov/AgendaCenter,http://ma-shrewsbury.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.southhadley.org/AgendaCenter,http://ma-southhadley.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.watertown-ma.gov/AgendaCenter,http://ma-watertown2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.watertownlib.org/AgendaCenter,http://ma-watertownlibrary.civicplus.com/AgendaCenter,,True
+200,,,http://ma-watertownparksandrec.civicplus.com/AgendaCenter,,True
+200,,,http://ma-webster.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://wellesleyma.gov/AgendaCenter,http://ma-wellesley.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofwestfield.org/AgendaCenter,http://ma-westfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.westonma.gov/AgendaCenter,http://ma-weston.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.whitman-ma.gov/AgendaCenter,http://ma-whitman.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.wilbraham-ma.gov/AgendaCenter,http://ma-wilbraham.civicplus.com/AgendaCenter,,True
+200,,,http://ma-yarmouth.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.alleganygov.org/AgendaCenter,http://md-alleganycounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.annapolis.gov/AgendaCenter,http://md-annapolis.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.belairmd.org/AgendaCenter,http://md-belair.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofbowie.org/AgendaCenter,http://md-bowie.civicplus.com/AgendaCenter,,True
+200,,,http://md-brentwood.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.calvertcountymd.gov/AgendaCenter,http://md-calvertcounty.civicplus.com/AgendaCenter,,True
+200,,,http://md-calvertcountympo.civicplus.com/AgendaCenter,,True
+200,,,http://md-cambridge.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.carolinemd.org/AgendaCenter,http://md-carolinecounty.civicplus.com/AgendaCenter,,True
+200,,,http://md-chevychase.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chevychasevillagemd.gov/AgendaCenter,http://md-chevychasevillage.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.collegeparkmd.gov/AgendaCenter,http://md-collegepark.civicplus.com/AgendaCenter,,True
+200,,,http://md-fairmountheights.civicplus.com/AgendaCenter,,True
+200,,,http://md-forestheights2.civicplus.com/AgendaCenter,,True
+200,,,http://md-harfordcounty.civicplus.com/AgendaCenter,,True
+200,,,http://md-hyattsville.civicplus.com/AgendaCenter,,True
+200,,,http://md-mncppc.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mountairymd.org/AgendaCenter,http://md-mountairy.civicplus.com/AgendaCenter,,True
+,,,http://md-princegeorgescounty.civicplus.com/AgendaCenter,"HTTPSConnectionPool(host='www.princegeorgescountymd.gov', port=443): Max retries exceeded with url: /AgendaCenter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",
+,,,http://md-princegeorgescountylegislative.civicplus.com/AgendaCenter,"HTTPSConnectionPool(host='pgccouncil.us', port=443): Max retries exceeded with url: /AgendaCenter (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)')))",
+200,[<Response [302]>],https://www.qac.org/AgendaCenter,http://md-queenannescounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rockvillemd.gov/AgendaCenter,http://md-rockville.civicplus.com/AgendaCenter,,True
+200,,,http://md-somerset.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.upmd.org/AgendaCenter,http://md-universitypark.civicplus.com/AgendaCenter,,True
+200,,,http://md-westminster.civicplus.com/AgendaCenter,,True
+200,,,http://md-wicomicocounty.civicplus.com/AgendaCenter,,True
+200,,,http://me-barharbor.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.brunswickme.org/AgendaCenter,http://me-brunswick.civicplus.com/AgendaCenter,,True
+200,,,http://me-cumberlandcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://gpmetro.org/AgendaCenter,http://me-gptransit.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.kennebunkmaine.us/AgendaCenter,http://me-kennebunk.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.orono.org/AgendaCenter,http://me-orono.civicplus.com/AgendaCenter,,True
+200,,,http://me-portland.civicplus.com/AgendaCenter,,True
+200,,,http://me-portlandhousingauthority.civicplus.com/AgendaCenter,,True
+200,,,http://me-rangeley.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.skowhegan.org/AgendaCenter,http://me-skowhegan.civicplus.com/AgendaCenter,,True
+200,,,http://me-wells.civicplus.com/AgendaCenter,,True
+200,,,http://me-westbrook.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.windhammaine.us/AgendaCenter,http://me-windham.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.yorkmaine.org/AgendaCenter,http://me-york.civicplus.com/AgendaCenter,,True
+200,,,http://mi-adrianlibrary.civicplus.com/AgendaCenter,,True
+200,,,http://mi-battlecreek.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://mi-baycity.civicplus.com/AgendaCenter,http://mi-baycity.civicplus.com/AgendaCenter,,True
+200,,,http://mi-berriencounty.civicplus.com/AgendaCenter,,True
+200,,,http://mi-bridgman.civicplus.com/AgendaCenter,,True
+200,,,http://mi-brightontownship.civicplus.com/AgendaCenter,,True
+200,,,http://mi-cadillac.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.canton-mi.org/AgendaCenter,http://mi-canton.civicplus.com/AgendaCenter,,True
+200,,,http://mi-centerline.civicplus.com/AgendaCenter,,True
+200,,,http://mi-charlevoix.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chesterfieldtwp.org/AgendaCenter,http://mi-chesterfieldtownship.civicplus.com/AgendaCenter,,True
+200,,,http://mi-coldwater.civicplus.com/AgendaCenter,,True
+200,,,http://mi-dundee.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.eastgr.org/AgendaCenter,http://mi-eastgrandrapids.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofeastlansing.com/AgendaCenter,http://mi-eastlansing.civicplus.com/AgendaCenter,,True
+200,,,http://mi-eastlansingneighborhoods.civicplus.com/AgendaCenter,,True
+200,,,http://mi-exeter.civicplus.com/AgendaCenter,,True
+200,,,http://mi-fraser.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gardencitymi.org/AgendaCenter,http://mi-gardencity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gtwp.com/AgendaCenter,http://mi-georgetown.civicplus.com/AgendaCenter,,True
+200,,,http://mi-grandtraversecounty.civicplus.com/AgendaCenter,,True
+200,,,http://mi-grandtraversecountyrc.civicplus.com/AgendaCenter,,True
+200,,,http://mi-inkster.civicplus.com/AgendaCenter,,True
+200,,,http://mi-jackson.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mijackson.org/AgendaCenter,http://mi-jacksoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://mi-lansing.civicplus.com/AgendaCenter,http://mi-lansing.civicplus.com/AgendaCenter,,True
+200,,,http://mi-lenaweecounty.civicplus.com/AgendaCenter,,True
+200,,,http://mi-lenox.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.macomb-mi.gov/AgendaCenter,http://mi-macomb.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.madison-heights.org/AgendaCenter,http://mi-madisonheights.civicplus.com/AgendaCenter,,True
+200,,,http://mi-marlette.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityofmidlandmi.gov/AgendaCenter,http://mi-midland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.muskegon.mi.us/AgendaCenter,http://mi-muskegoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofnewbaltimore.org/AgendaCenter,http://mi-newbaltimore.civicplus.com/AgendaCenter,,True
+200,,,http://mi-oaklandcountyrc.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://oceolatwp.org/AgendaCenter,http://mi-oceolatownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pittsfield-mi.gov/AgendaCenter,http://mi-pittsfieldtownship.civicplus.com/AgendaCenter,,True
+404,,,http://mi-plymouth.civicplus.com/AgendaCenter,,False
+200,,,http://mi-plymouthdowntown.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.portagemi.gov/AgendaCenter,http://mi-portage.civicplus.com/AgendaCenter,,True
+200,,,http://mi-quincy.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofrichmond.net/AgendaCenter,http://mi-richmond.civicplus.com/AgendaCenter,,True
+200,,,http://mi-roscommoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.romi.gov/AgendaCenter,http://mi-royaloak.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.scsmi.net/AgendaCenter,http://mi-stclairshores.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sterling-heights.net/AgendaCenter,http://mi-sterlingheights.civicplus.com/AgendaCenter,,True
+200,,,http://mi-taylor.civicplus.com/AgendaCenter,,True
+200,,,http://mi-vassar.civicplus.com/AgendaCenter,,True
+200,,,http://mi-villageofclarkston.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://mi-washtenawcounty.civicplus.com/AgendaCenter,http://mi-washtenawcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.waterfordmi.gov/AgendaCenter,http://mi-waterford.civicplus.com/AgendaCenter,,True
+200,,,http://mi-yale.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityofypsilanti.com/AgendaCenter,http://mi-ypsilanti.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofzeeland.com/AgendaCenter,http://mi-zeeland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.andovermn.gov/AgendaCenter,http://mn-andover.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.anokacounty.us/AgendaCenter,http://mn-anokacounty.civicplus.com/AgendaCenter,,True
+,,,http://mn-ardenhills.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,,,http://mn-becker.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.benton.mn.us/AgendaCenter,http://mn-bentoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://mn-biglake.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.blueearthcountymn.gov/AgendaCenter,http://mn-blueearthcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.carlton.mn.us/AgendaCenter,http://mn-carltoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chaskamn.com/AgendaCenter,http://mn-chaska.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chisagocounty.us/AgendaCenter,http://mn-chisagocounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://claycountymn.gov/AgendaCenter,http://mn-claycounty.civicplus.com/AgendaCenter,,True
+200,,,http://mn-excelsior.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.faribault.mn.us/AgendaCenter,http://mn-faribault.civicplus.com/AgendaCenter,,True
+200,,,http://mn-freeborncounty.civicplus.com/AgendaCenter,,True
+404,[<Response [302]>],https://www.fridleymn.gov/AgendaCenter,http://mn-fridley.civicplus.com/AgendaCenter,,False
+200,[<Response [302]>],https://www.co.goodhue.mn.us/AgendaCenter,http://mn-goodhuecounty.civicplus.com/AgendaCenter,,True
+200,,,http://mn-grantcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hopkinsmn.com/AgendaCenter,http://mn-hopkins.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ighmn.gov/AgendaCenter,http://mn-invergroveheights.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.isanti.mn.us/AgendaCenter,http://mn-isanticounty.civicplus.com/AgendaCenter,,True
+200,,,http://mn-koochichingcounty.civicplus.com/AgendaCenter,,True
+200,,,http://mn-lesueur.civicplus.com/AgendaCenter,,True
+200,,,http://mn-litchfield.civicplus.com/AgendaCenter,,True
+200,,,http://mn-littlecanada.civicplus.com/AgendaCenter,,True
+200,,,http://mn-mahtomedi.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.meeker.mn.us/AgendaCenter,http://mn-meekercounty.civicplus.com/AgendaCenter,,True
+200,,,http://mn-mnprairiecoa.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmooselake.net/AgendaCenter,http://mn-mooselake.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.nicollet.mn.us/AgendaCenter,http://mn-nicolletcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.northstpaul.org/AgendaCenter,http://mn-northstpaul.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.oakdale.mn.us/AgendaCenter,http://mn-oakdale.civicplus.com/AgendaCenter,,True
+200,,,http://mn-orono2.civicplus.com/AgendaCenter,,True
+200,,,http://mn-owatonna.civicplus.com/AgendaCenter,,True
+200,,,http://mn-pipestone.civicplus.com/AgendaCenter,,True
+200,,,http://mn-polkcounty.civicplus.com/AgendaCenter,,True
+200,,,http://mn-ricecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.rosemount.mn.us/AgendaCenter,http://mn-rosemount2.civicplus.com/AgendaCenter,,True
+200,,,http://mn-roseville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.scottcountymn.gov/AgendaCenter,http://mn-scottcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://mn-sherburnecounty.civicplus.com/AgendaCenter,http://mn-sherburnecounty.civicplus.com/AgendaCenter,,True
+200,,,http://mn-southstpaul.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.stcloud.mn.us/AgendaCenter,http://mn-stcloud.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://mnecb.org/AgendaCenter,http://mn-stcloudcmesb.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.stjames.mn.us/AgendaCenter,http://mn-stjames.civicplus.com/AgendaCenter,,True
+200,,,http://mn-stjoseph.civicplus.com/AgendaCenter,,True
+200,,,http://mn-vadnaisheights.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.victoria.mn.us/AgendaCenter,http://mn-victoria.civicplus.com/AgendaCenter,,True
+200,,,http://mn-waconia.civicplus.com/AgendaCenter,,True
+200,,,http://mn-wadenacounty.civicplus.com/AgendaCenter,,True
+200,,,http://mn-waitepark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.waseca.mn.us/AgendaCenter,http://mn-wasecacounty.civicplus.com/AgendaCenter,,True
+,,,http://mn-washingtoncounty.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,[<Response [302]>],https://www.co.watonwan.mn.us/AgendaCenter,http://mn-watonwancounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.wayzata.org/AgendaCenter,http://mn-wayzata.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.wspmn.gov/AgendaCenter,http://mn-weststpaul.civicplus.com/AgendaCenter,,True
+200,,,http://mn-whitebeartownship.civicplus.com/AgendaCenter,,True
+200,,,http://mn-wrightcounty.civicplus.com/AgendaCenter,,True
+200,,,http://mo-beltonparks.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofblackjack.com/AgendaCenter,http://mo-blackjack.civicplus.com/AgendaCenter,,True
+200,,,http://mo-bluesprings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bransonmo.gov/AgendaCenter,http://mo-branson.civicplus.com/AgendaCenter,,True
+200,,,http://mo-brentwood.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.buchanan.mo.us/AgendaCenter,http://mo-buchanancounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.casscounty.com/AgendaCenter,http://mo-casscounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.clayhealth.com/AgendaCenter,http://mo-claycountyphc.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://colecounty.org/AgendaCenter,http://mo-colecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofdellwoodmo.com/AgendaCenter,http://mo-dellwood2.civicplus.com/AgendaCenter,,True
+200,,,http://mo-desperes2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ellisville.mo.us/AgendaCenter,http://mo-ellisville.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://mo-ferguson2.civicplus.com/AgendaCenter,http://mo-ferguson2.civicplus.com/AgendaCenter,,True
+200,,,http://mo-festus.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.jacksongov.org/AgendaCenter,http://mo-jacksoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://mo-joplin.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lebanonmissouri.org/AgendaCenter,http://mo-lebanon.civicplus.com/AgendaCenter,,True
+200,,,http://mo-manchester.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmaplewood.com/AgendaCenter,http://mo-maplewood.civicplus.com/AgendaCenter,,True
+200,,,http://mo-mccma.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.moberlymo.org/AgendaCenter,http://mo-moberly.civicplus.com/AgendaCenter,,True
+200,,,http://mo-odessa2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.olivettemo.com/AgendaCenter,http://mo-olivette.civicplus.com/AgendaCenter,,True
+200,,,http://mo-overland2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://mo-ozark2.civicplus.com/AgendaCenter,http://mo-ozark2.civicplus.com/AgendaCenter,,True
+200,,,http://mo-pacific.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofperryville.com/AgendaCenter,http://mo-perryville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.poplarbluff-mo.gov/AgendaCenter,http://mo-poplarbluff.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.republicmo.com/AgendaCenter,http://mo-republic.civicplus.com/AgendaCenter,,True
+200,,,http://mo-saintrobert.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://mo-springfield.civicplus.com/AgendaCenter,http://mo-springfield.civicplus.com/AgendaCenter,,True
+200,,,http://mo-stann.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.stcharlescitymo.gov/AgendaCenter,http://mo-stcharles.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sccmo.org/AgendaCenter,http://mo-stcharlescounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.stjoemo.info/AgendaCenter,http://mo-stjoseph.civicplus.com/AgendaCenter,,True
+200,,,http://mo-sunsethills.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.town-and-country.org/AgendaCenter,http://mo-townandcountry.civicplus.com/AgendaCenter,,True
+200,,,http://mo-universitycity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.warrensburg-mo.com/AgendaCenter,http://mo-warrensburg.civicplus.com/AgendaCenter,,True
+200,,,http://mo-webstergroves.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofwildwood.com/AgendaCenter,http://mo-wildwood.civicplus.com/AgendaCenter,,True
+200,,,http://mo-willowsprings.civicplus.com/AgendaCenter,,True
+200,,,http://ms-canton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.desotocountyms.gov/AgendaCenter,http://ms-desotocounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.jackson.ms.us/AgendaCenter,http://ms-jacksoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityofmosspoint.org/AgendaCenter,http://ms-mosspoint.civicplus.com/AgendaCenter,,True
+200,,,http://ms-natchez.civicplus.com/AgendaCenter,,True
+200,,,http://ms-pascagoula.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://southaven.org/AgendaCenter,http://ms-southaven.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofstarkville.org/AgendaCenter,http://ms-starkville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://billingslibrary.org/AgendaCenter,http://mt-billingspubliclibrary.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.silverbow.mt.us/AgendaCenter,http://mt-buttesilverbow.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.kalispell.com/AgendaCenter,http://mt-kalispell.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://ravalli.us/AgendaCenter,http://mt-ravallicounty.civicplus.com/AgendaCenter,,True
+200,,,http://mt-richlandcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.townofblackmountain.org/AgendaCenter,http://nc-blackmountain.civicplus.com/AgendaCenter,,True
+200,,,http://nc-boilingsprings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofbrevard.com/AgendaCenter,http://nc-brevard.civicplus.com/AgendaCenter,,True
+200,,,http://nc-carrboro.civicplus.com/AgendaCenter,,True
+200,,,http://nc-carteretcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cfpua.org/AgendaCenter,http://nc-cfwu.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cabarrushealth.org/AgendaCenter,http://nc-cha2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cravencountync.gov/AgendaCenter,http://nc-cravencounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://durhamnc.gov/AgendaCenter,http://nc-durham.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.edennc.us/AgendaCenter,http://nc-eden.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fuquay-varina.org/AgendaCenter,http://nc-fuquayvarina.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://nc-highpoint.civicplus.com/AgendaCenter,http://nc-highpoint.civicplus.com/AgendaCenter,,True
+200,,,http://nc-hokecounty.civicplus.com/AgendaCenter,,True
+200,,,http://nc-hopemills.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.huntersville.org/AgendaCenter,http://nc-huntersville.civicplus.com/AgendaCenter,,True
+200,,,http://nc-indiantrail.civicplus.com/AgendaCenter,,True
+200,,,http://nc-iredellcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.jacksonvillenc.gov/AgendaCenter,http://nc-jacksonville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofkm.com/AgendaCenter,http://nc-kingsmountain.civicplus.com/AgendaCenter,,True
+200,,,http://nc-kinston.civicplus.com/AgendaCenter,,True
+200,,,http://nc-lagrange.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoflenoir.com/AgendaCenter,http://nc-lenoir.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.lincolnton.nc.us/AgendaCenter,http://nc-lincolnton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mooresvillenc.gov/AgendaCenter,http://nc-mooresville.civicplus.com/AgendaCenter,,True
+200,,,http://nc-mountairy.civicplus.com/AgendaCenter,,True
+200,,,http://nc-nashcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.north-wilkesboro.com/AgendaCenter,http://nc-northwilkesboro.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://nc-onslowcounty.civicplus.com/AgendaCenter,http://nc-onslowcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.onwasa.com/AgendaCenter,http://nc-onwasa.civicplus.com/AgendaCenter,,True
+200,,,http://nc-orangecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.partnc.org/AgendaCenter,http://nc-part.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pittcountync.gov/AgendaCenter,http://nc-pittcounty.civicplus.com/AgendaCenter,,True
+200,,,http://nc-richmondcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sanfordnc.net/AgendaCenter,http://nc-sanford.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.southernpines.net/AgendaCenter,http://nc-southernpines.civicplus.com/AgendaCenter,,True
+200,,,http://nc-warrencounty.civicplus.com/AgendaCenter,,True
+200,,,http://nc-waxhaw.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.waynegov.com/AgendaCenter,http://nc-waynecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://wilkescounty.net/AgendaCenter,http://nc-wilkescounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://nc-wingate.civicplus.com/AgendaCenter,http://nc-wingate.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://nc-winston-salem.civicplus.com/AgendaCenter,http://nc-winston-salem.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.townofwrightsvillebeach.com/AgendaCenter,http://nc-wrightsvillebeach.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.yadkincountync.gov/AgendaCenter,http://nc-yadkincounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bismarcknd.gov/AgendaCenter,http://nd-bismarck.civicplus.com/AgendaCenter,,True
+200,,,http://nd-grandforkslibrary.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.minotnd.org/AgendaCenter,http://nd-minot.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.ramsey.nd.us/AgendaCenter,http://nd-ramseycounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.ward.nd.us/AgendaCenter,http://nd-wardcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.westfargond.gov/AgendaCenter,http://nd-westfargo.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chadron-nebraska.com/AgendaCenter,http://ne-chadron.civicplus.com/AgendaCenter,,True
+200,,,http://ne-fremont.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gretnane.org/AgendaCenter,http://ne-gretna.civicplus.com/AgendaCenter,,True
+200,,,http://ne-hebron.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.papillion.org/AgendaCenter,http://ne-papillion.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bedfordnh.org/AgendaCenter,http://nh-bedford.civicplus.com/AgendaCenter,,True
+200,,,http://nh-bow.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.laconianh.gov/AgendaCenter,http://nh-laconia.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://lebanonnh.gov/AgendaCenter,http://nh-lebanon.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.nashuanh.gov/AgendaCenter,http://nh-nashua.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.windhamnh.gov/AgendaCenter,http://nh-windham.civicplus.com/AgendaCenter,,True
+200,,,http://nj-bloomfieldtownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.boonton.org/AgendaCenter,http://nj-boonton.civicplus.com/AgendaCenter,,True
+200,,,http://nj-burlingtoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://capemaycountynj.gov/AgendaCenter,http://nj-capemaycounty.civicplus.com/AgendaCenter,,True
+404,,,http://nj-cherryhill.civicplus.com/AgendaCenter,,False
+200,,,http://nj-eastamwelltownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.eastbrunswick.org/AgendaCenter,http://nj-eastbrunswick.civicplus.com/AgendaCenter,,True
+200,,,http://nj-eastorange.civicplus.com/AgendaCenter,,True
+200,,,http://nj-edgewater.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.franklintownshipnj.org/AgendaCenter,http://nj-franklintownshipgloucester.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://townofharrison.com/AgendaCenter,http://nj-harrison.civicplus.com/AgendaCenter,,True
+200,,,http://nj-hawthorne.civicplus.com/AgendaCenter,,True
+200,,,http://nj-holmdeltownship.civicplus.com/AgendaCenter,,True
+200,,,http://nj-hopewelltownship.civicplus.com/AgendaCenter,,True
+200,,,http://nj-hopewelltownshipmercer.civicplus.com/AgendaCenter,,True
+200,,,http://nj-howelltownship.civicplus.com/AgendaCenter,,True
+200,,,http://nj-lincolnpark.civicplus.com/AgendaCenter,,True
+200,,,http://nj-livingstontownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rosenet.org/AgendaCenter,http://nj-madisonborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.manvillenj.org/AgendaCenter,http://nj-manvilleborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.medfordlakes.com/AgendaCenter,http://nj-medfordlakes.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.middletownnj.org/AgendaCenter,http://nj-middletown.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://twp.millburn.nj.us/AgendaCenter,http://nj-millburntownship.civicplus.com/AgendaCenter,,True
+200,,,http://nj-millville.civicplus.com/AgendaCenter,,True
+200,,,http://nj-montvilletownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.moorestown.nj.us/AgendaCenter,http://nj-moorestowntownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.morristwp.com/AgendaCenter,http://nj-morristownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.paramusborough.org/AgendaCenter,http://nj-paramusborough.civicplus.com/AgendaCenter,,True
+200,,,http://nj-parsippanytroyhills.civicplus.com/AgendaCenter,,True
+200,,,http://nj-plainsboro.civicplus.com/AgendaCenter,,True
+200,,,http://nj-pomptonlakes.civicplus.com/AgendaCenter,,True
+200,,,http://nj-ramseyborough.civicplus.com/AgendaCenter,,True
+200,,,http://nj-redbankborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rivervalenj.org/AgendaCenter,http://nj-rivervale.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rockawaytownship.org/AgendaCenter,http://nj-rockaway.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.roxburynj.us/AgendaCenter,http://nj-roxbury.civicplus.com/AgendaCenter,,True
+200,,,http://nj-seasideheightsborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.staffordnj.gov/AgendaCenter,http://nj-staffordtownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofsummit.org/AgendaCenter,http://nj-summit.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.trentonnj.org/AgendaCenter,http://nj-trenton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.uniontownship.com/AgendaCenter,http://nj-uniontownship.civicplus.com/AgendaCenter,,True
+200,,,http://nj-walltownship.civicplus.com/AgendaCenter,,True
+200,,,http://nj-westorange.civicplus.com/AgendaCenter,,True
+200,,,http://nj-woodbridgetownship.civicplus.com/AgendaCenter,,True
+200,,,http://nm-angelfire.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chavescounty.gov/AgendaCenter,http://nm-chavescounty.civicplus.com/AgendaCenter,,True
+200,,,http://nm-eddycounty.civicplus.com/AgendaCenter,,True
+200,,,http://nm-espanola.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofeunice.org/AgendaCenter,http://nm-eunice.civicplus.com/AgendaCenter,,True
+200,,,http://nm-farmington2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gallupnm.gov/AgendaCenter,http://nm-gallup.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://nm-lascruces.civicplus.com/AgendaCenter,http://nm-lascruces.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.loslunasnm.gov/AgendaCenter,http://nm-loslunas.civicplus.com/AgendaCenter,,True
+200,,,http://nm-mckinleycounty.civicplus.com/AgendaCenter,,True
+200,,,http://nm-mrcog.civicplus.com/AgendaCenter,,True
+200,,,http://nm-oterocounty.civicplus.com/AgendaCenter,,True
+200,,,http://nm-raton.civicplus.com/AgendaCenter,,True
+200,,,http://nm-riometro.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.roswell-nm.gov/AgendaCenter,http://nm-roswell.civicplus.com/AgendaCenter,,True
+200,,,http://nm-silvercity.civicplus.com/AgendaCenter,,True
+200,,,http://nm-taoscounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.valencia.nm.us/AgendaCenter,http://nm-valenciacounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bcnv.org/AgendaCenter,http://nv-bouldercity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoffernley.org/AgendaCenter,http://nv-fernley.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hcnv.us/AgendaCenter,http://nv-humboldtcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lyon-county.org/AgendaCenter,http://nv-lyoncounty.civicplus.com/AgendaCenter,,True
+,,,http://nv-nyecounty.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,[<Response [302]>],https://www.whitepinecounty.net/AgendaCenter,http://nv-whitepinecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.townofbabylon.com/AgendaCenter,http://ny-babylon.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.townofbrighton.org/AgendaCenter,http://ny-brighton.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ny-buffalo.civicplus.com/AgendaCenter,http://ny-buffalo.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.cohoes.ny.us/AgendaCenter,http://ny-cohoes.civicplus.com/AgendaCenter,,True
+200,,,http://ny-cortland.civicplus.com/AgendaCenter,,True
+200,,,http://ny-cortlandcounty.civicplus.com/AgendaCenter,,True
+200,,,http://ny-easthamptontown.civicplus.com/AgendaCenter,,True
+200,,,http://ny-easthamptonvillage.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.freeportny.gov/AgendaCenter,http://ny-freeport.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gnparks.org/AgendaCenter,http://ny-greatneckparkdistrict.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ny-hempstead.civicplus.com/AgendaCenter,http://ny-hempstead.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hydeparkny.us/AgendaCenter,http://ny-hydepark.civicplus.com/AgendaCenter,,True
+200,,,http://ny-ithaca.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.livingstoncounty.us/AgendaCenter,http://ny-livingstoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.madisoncounty.ny.gov/AgendaCenter,http://ny-madisoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://ny-malta.civicplus.com/AgendaCenter,,True
+200,,,http://ny-mamakating.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.townofmanlius.org/AgendaCenter,http://ny-manlius.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.manliusvillage.org/AgendaCenter,http://ny-manliusvillage.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://massena.us/AgendaCenter,http://ny-massena.civicplus.com/AgendaCenter,,True
+200,,,http://ny-newscotland.civicplus.com/AgendaCenter,,True
+200,,,http://ny-ontariocounty.civicplus.com/AgendaCenter,,True
+404,,,http://ny-plattsburgh.civicplus.com/AgendaCenter,,False
+200,[<Response [302]>],https://www.redhook.org/AgendaCenter,http://ny-redhook.civicplus.com/AgendaCenter,,True
+200,,,http://ny-rioc.civicplus.com/AgendaCenter,,True
+200,,,http://ny-saratogasprings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.scarsdale.com/AgendaCenter,http://ny-scarsdale.civicplus.com/AgendaCenter,,True
+200,,,http://ny-schenectady.civicplus.com/AgendaCenter,,True
+200,,,http://ny-schuylercounty.civicplus.com/AgendaCenter,,True
+200,,,http://ny-southampton.civicplus.com/AgendaCenter,,True
+200,,,http://ny-southeast.civicplus.com/AgendaCenter,,True
+200,,,http://ny-southold.civicplus.com/AgendaCenter,,True
+,,,http://ny-victor.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,[<Response [302]>],https://washingtoncountyny.gov/AgendaCenter,http://ny-washingtoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://ny-wheatfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofwhiteplains.com/AgendaCenter,http://ny-whiteplains.civicplus.com/AgendaCenter,,True
+200,,,http://ny-wyomingcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://wycoida.org/AgendaCenter,http://ny-wyomingcountyida.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://ny-yatescounty.civicplus.com/AgendaCenter,http://ny-yatescounty.civicplus.com/AgendaCenter,,True
+200,,,http://oh-alliance.civicplus.com/AgendaCenter,,True
+200,,,http://oh-ashtabulacounty.civicplus.com/AgendaCenter,,True
+,,,http://oh-athens.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,,,http://oh-aurora.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofavon.com/AgendaCenter,http://oh-avon.civicplus.com/AgendaCenter,,True
+200,,,http://oh-barberton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.beachwoodohio.com/AgendaCenter,http://oh-beachwood.civicplus.com/AgendaCenter,,True
+200,,,http://oh-beavercreek.civicplus.com/AgendaCenter,,True
+200,,,http://oh-beavercreektownship.civicplus.com/AgendaCenter,,True
+200,,,http://oh-berea.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bratenahl.org/AgendaCenter,http://oh-bratenahl.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://broadview-heights.org/AgendaCenter,http://oh-broadviewheights.civicplus.com/AgendaCenter,,True
+200,,,http://oh-brookville.civicplus.com/AgendaCenter,,True
+200,,,http://oh-canalwinchester.civicplus.com/AgendaCenter,,True
+200,,,http://oh-canton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chardon.cc/AgendaCenter,http://oh-chardon.civicplus.com/AgendaCenter,,True
+200,,,http://oh-circleville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.clarkcountyohio.gov/AgendaCenter,http://oh-clarkcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.copley.oh.us/AgendaCenter,http://oh-copleytownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.daytonohio.gov/AgendaCenter,http://oh-dayton.civicplus.com/AgendaCenter,,True
+200,,,http://oh-doylestown.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.englewood.oh.us/AgendaCenter,http://oh-englewood.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fairfield-city.org/AgendaCenter,http://oh-fairfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fairlawn.us/AgendaCenter,http://oh-fairlawn.civicplus.com/AgendaCenter,,True
+,,,http://oh-fultoncounty.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,,,http://oh-galion.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.grandviewheights.gov/AgendaCenter,http://oh-grandviewheights.civicplus.com/AgendaCenter,,True
+500,[<Response [302]>],http://oh-greenecounty.civicplus.com/Error.aspx?aspxerrorpath=/AgendaCenter,http://oh-greenecounty.civicplus.com/AgendaCenter,,False
+200,[<Response [301]>],https://oh-groveport.civicplus.com/AgendaCenter,http://oh-groveport.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.groveportrec.com/AgendaCenter,http://oh-groveportrecreation.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.harrisonohio.gov/AgendaCenter,http://oh-harrison.civicplus.com/AgendaCenter,,True
+200,,,http://oh-highlandheights.civicplus.com/AgendaCenter,,True
+200,,,http://oh-kent.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.lancaster.oh.us/AgendaCenter,http://oh-lancaster.civicplus.com/AgendaCenter,,True
+200,,,http://oh-libertytownship.civicplus.com/AgendaCenter,,True
+200,,,http://oh-lima.civicplus.com/AgendaCenter,,True
+200,,,http://oh-logancounty.civicplus.com/AgendaCenter,,True
+200,,,http://oh-lorain.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mahoningcountyoh.gov/AgendaCenter,http://oh-mahoningcounty.civicplus.com/AgendaCenter,,True
+200,,,http://oh-mayfieldheights.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.miamicountyohio.gov/AgendaCenter,http://oh-miamicounty.civicplus.com/AgendaCenter,,True
+200,,,http://oh-miamitownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmiddletown.org/AgendaCenter,http://oh-middletown.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mcbdds.org/AgendaCenter,http://oh-montgomerycountybdds.civicplus.com/AgendaCenter,,True
+200,,,http://oh-northcollegehill.civicplus.com/AgendaCenter,,True
+200,,,http://oh-norton.civicplus.com/AgendaCenter,,True
+200,,,http://oh-orangetownship.civicplus.com/AgendaCenter,,True
+200,,,http://oh-prairietownship.civicplus.com/AgendaCenter,,True
+200,,,http://oh-richfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sharonville.org/AgendaCenter,http://oh-sharonville.civicplus.com/AgendaCenter,,True
+200,,,http://oh-shawneetownship.civicplus.com/AgendaCenter,,True
+200,,,http://oh-sugarcreektownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://sunburyohio.org/AgendaCenter,http://oh-sunbury.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://oh-swaco.civicplus.com/AgendaCenter,http://oh-swaco.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.tippcityohio.gov/AgendaCenter,http://oh-tippcity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.troyohio.gov/AgendaCenter,http://oh-troy.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mytwinsburg.com/AgendaCenter,http://oh-twinsburg.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.wadsworthcity.com/AgendaCenter,http://oh-wadsworth.civicplus.com/AgendaCenter,,True
+200,,,http://oh-washingtoncourthouse.civicplus.com/AgendaCenter,,True
+200,,,http://oh-wellington.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofwestlake.org/AgendaCenter,http://oh-westlake.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://whitehall-oh.us/AgendaCenter,http://oh-whitehall.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.williamscountyoh.gov/AgendaCenter,http://oh-williamscounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.xenia.oh.us/AgendaCenter,http://oh-xenia.civicplus.com/AgendaCenter,,True
+200,,,http://ok-ardmore.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.atokaok.org/AgendaCenter,http://ok-atoka.civicplus.com/AgendaCenter,,True
+200,,,http://ok-catoosa.civicplus.com/AgendaCenter,,True
+200,,,http://ok-chickasha.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://mychoctaw.org/AgendaCenter,http://ok-choctaw.civicplus.com/AgendaCenter,,True
+200,,,http://ok-claremorecieda.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://clevelandcountyok.com/AgendaCenter,http://ok-clevelandcounty2.civicplus.com/AgendaCenter,,True
+200,,,http://ok-clevelandcountyfairgrounds.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.durant.org/AgendaCenter,http://ok-durant.civicplus.com/AgendaCenter,,True
+200,,,http://ok-glenpool.civicplus.com/AgendaCenter,,True
+200,,,http://ok-guthrie.civicplus.com/AgendaCenter,,True
+200,,,http://ok-kaycounty.civicplus.com/AgendaCenter,,True
+200,,,http://ok-miami.civicplus.com/AgendaCenter,,True
+200,,,http://ok-oklahomacountyiaao.civicplus.com/AgendaCenter,,True
+200,,,http://ok-okmulgee.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofowasso.com/AgendaCenter,http://ok-owasso.civicplus.com/AgendaCenter,,True
+200,,,http://ok-piedmont.civicplus.com/AgendaCenter,,True
+200,,,http://ok-quapawtribe.civicplus.com/AgendaCenter,,True
+200,,,http://ok-sandsprings.civicplus.com/AgendaCenter,,True
+404,,,http://ok-sapulpa.civicplus.com/AgendaCenter,,False
+200,,,http://ok-skiatook.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofstroud.com/AgendaCenter,http://ok-stroud.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoftahlequah.com/AgendaCenter,http://ok-tahlequah.civicplus.com/AgendaCenter,,True
+200,,,http://ok-woodward.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.brookings.or.us/AgendaCenter,http://or-brookings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.eugene-or.gov/AgendaCenter,http://or-eugene.civicplus.com/AgendaCenter,,True
+200,,,http://or-fairview.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.grantspassoregon.gov/AgendaCenter,http://or-grantspass.civicplus.com/AgendaCenter,,True
+200,,,http://or-klamathcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lcog.org/AgendaCenter,http://or-lanecog.civicplus.com/AgendaCenter,,True
+200,,,http://or-lanerapa.civicplus.com/AgendaCenter,,True
+200,,,http://or-silverton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.tvfr.com/AgendaCenter,http://or-tualatinfireandrescue.civicplus.com/AgendaCenter,,True
+200,,,http://pa-adamstownborough.civicplus.com/AgendaCenter,,True
+200,,,http://pa-baldwinborough.civicplus.com/AgendaCenter,,True
+200,,,http://pa-centrecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.chesco.org/AgendaCenter,http://pa-chestercounty.civicplus.com/AgendaCenter,,True
+200,,,http://pa-chestercountyato.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ccls.org/AgendaCenter,http://pa-chestercountylibrary.civicplus.com/AgendaCenter,,True
+200,,,http://pa-colliertownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-denverborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ebrandywine.org/AgendaCenter,http://pa-eastbrandywine.civicplus.com/AgendaCenter,,True
+200,,,http://pa-eastcalntownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-easthempfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.easttown.org/AgendaCenter,http://pa-easttowntownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-eastwhitelandtownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-ephrataborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fayettecountypa.org/AgendaCenter,http://pa-fayettecounty.civicplus.com/AgendaCenter,,True
+200,,,http://pa-findlaytownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.franklinparkborough.us/AgendaCenter,http://pa-franklinparkborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hampton-pa.org/AgendaCenter,http://pa-hamptontownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hermitage.net/AgendaCenter,http://pa-hermitage.civicplus.com/AgendaCenter,,True
+200,,,http://pa-hopewelltownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.kennett.pa.us/AgendaCenter,http://pa-kennetttownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.lancaster.pa.us/AgendaCenter,http://pa-lancastercounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://lancastercountyplanning.org/AgendaCenter,http://pa-lancastercountyplanning.civicplus.com/AgendaCenter,,True
+200,,,http://pa-lansdaleborough.civicplus.com/AgendaCenter,,True
+200,,,http://pa-limerick.civicplus.com/AgendaCenter,,True
+200,,,http://pa-lowerpottsgrove.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://pa-luzernecounty.civicplus.com/AgendaCenter,http://pa-luzernecounty.civicplus.com/AgendaCenter,,True
+200,,,http://pa-mckeesport.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.middlesextownship.org/AgendaCenter,http://pa-middlesextownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-millcreektownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.montcopa.org/AgendaCenter,http://pa-montgomerycounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://mtlebanonlibrary.org/AgendaCenter,http://pa-mtlebanonlibrary.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.murrysville.com/AgendaCenter,http://pa-murrysville.civicplus.com/AgendaCenter,,True
+200,,,http://pa-newhopeborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.norristown.org/AgendaCenter,http://pa-norristown.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.north-fayette.com/AgendaCenter,http://pa-northfayettetownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.township.north-huntingdon.pa.us/AgendaCenter,http://pa-northhuntingdontownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-northstrabanetownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-phoenixvilleborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.twp.pine.pa.us/AgendaCenter,http://pa-pinetownshipalleghenycounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.radnor.com/AgendaCenter,http://pa-radnor.civicplus.com/AgendaCenter,,True
+200,,,http://pa-rosstownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sewickleyborough.org/AgendaCenter,http://pa-sewickleyborough.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.shaler.org/AgendaCenter,http://pa-shalertownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://southfayettepa.com/AgendaCenter,http://pa-southfayette.civicplus.com/AgendaCenter,,True
+200,,,http://pa-southmiddletontownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-statecollege.civicplus.com/AgendaCenter,,True
+200,,,http://pa-upperfredericktownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-uppermorelandtownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-upperprovidencetownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.uprov-montco.org/AgendaCenter,http://pa-uptmc.civicplus.com/AgendaCenter,,True
+200,,,http://pa-uwchlantownship.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.venango.pa.us/AgendaCenter,http://pa-venangocounty.civicplus.com/AgendaCenter,,True
+200,,,http://pa-waynecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://west-chester.com/AgendaCenter,http://pa-westchester.civicplus.com/AgendaCenter,,True
+200,,,http://pa-westlampeter.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.westnorritontwp.org/AgendaCenter,http://pa-westnorriton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://pa-westwhiteland.civicplus.com/AgendaCenter,http://pa-westwhiteland.civicplus.com/AgendaCenter,,True
+200,,,http://pa-whitemarshtownship.civicplus.com/AgendaCenter,,True
+200,,,http://pa-whitpaintownship.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://www.maricopa.gov/AgendaCenter,http://redirect2.civicplus.com/AgendaCenter,,True
+404,,,http://ri-bristol.civicplus.com/AgendaCenter,,False
+200,,,http://ri-eastgreenwich.civicplus.com/AgendaCenter,,True
+200,,,http://ri-northkingstown.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.portsmouthri.com/AgendaCenter,http://ri-portsmouth.civicplus.com/AgendaCenter,,True
+200,,,http://ri-richmond.civicplus.com/AgendaCenter,,True
+200,,,http://ri-westerly.civicplus.com/AgendaCenter,,True
+200,,,http://sc-abbeville.civicplus.com/AgendaCenter,,True
+200,,,http://sc-beaufort.civicplus.com/AgendaCenter,,True
+200,,,http://sc-chapin.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ccprc.com/AgendaCenter,http://sc-charlestoncountyparks.civicplus.com/AgendaCenter,,True
+200,,,http://sc-charlestonwatersystem.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://doi.sc.gov/AgendaCenter,http://sc-doi.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.greenvillesc.gov/AgendaCenter,http://sc-greenville.civicplus.com/AgendaCenter,,True
+200,,,http://sc-hamptoncounty.civicplus.com/AgendaCenter,,True
+200,,,http://sc-lakecity.civicplus.com/AgendaCenter,,True
+200,,,http://sc-lexington.civicplus.com/AgendaCenter,,True
+200,,,http://sc-mountpleasant.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.spartanburgcounty.org/AgendaCenter,http://sc-spartanburgcounty.civicplus.com/AgendaCenter,,True
+200,,,http://sc-summerville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.tegacaysc.org/AgendaCenter,http://sc-tegacay3.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.yorkcountygov.com/AgendaCenter,http://sc-yorkcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.aberdeen.sd.us/AgendaCenter,http://sd-aberdeen.civicplus.com/AgendaCenter,,True
+200,,,http://sd-brookingscounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lawrence.sd.us/AgendaCenter,http://sd-lawrencecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmitchell.org/AgendaCenter,http://sd-mitchell.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofpierre.org/AgendaCenter,http://sd-pierre.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.watertownsd.us/AgendaCenter,http://sd-watertown.civicplus.com/AgendaCenter,,True
+200,,,http://sk-rmcormanpark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rosetown.ca/AgendaCenter,http://sk-rosetown.civicplus.com/AgendaCenter,,True
+200,,,http://sk-wadena.civicplus.com/AgendaCenter,,True
+200,,,http://sk-warman2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofalcoa-tn.gov/AgendaCenter,http://tn-alcoa.civicplus.com/AgendaCenter,,True
+200,,,http://tn-berryhill2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bristoltn.org/AgendaCenter,http://tn-bristol.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofclarksville.com/AgendaCenter,http://tn-clarksville.civicplus.com/AgendaCenter,,True
+200,,,http://tn-cleveland.civicplus.com/AgendaCenter,,True
+200,,,http://tn-coffeecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cookeville-tn.gov/AgendaCenter,http://tn-cookeville.civicplus.com/AgendaCenter,,True
+200,,,http://tn-farragut.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gallatintn.gov/AgendaCenter,http://tn-gallatin.civicplus.com/AgendaCenter,,True
+200,,,http://tn-goodlettsville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://katbus.com/AgendaCenter,http://tn-knoxvilleareatransit.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lavergnetn.gov/AgendaCenter,http://tn-lavergne.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lawrenceburgtn.gov/AgendaCenter,http://tn-lawrenceburg.civicplus.com/AgendaCenter,,True
+200,,,http://tn-lebanon.civicplus.com/AgendaCenter,,True
+200,,,http://tn-manchester.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.millingtontn.gov/AgendaCenter,http://tn-millington.civicplus.com/AgendaCenter,,True
+200,,,http://tn-murfreesboro.civicplus.com/AgendaCenter,,True
+200,,,http://tn-oakhill.civicplus.com/AgendaCenter,,True
+200,,,http://tn-piperton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.springfieldtn.gov/AgendaCenter,http://tn-springfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.springhilltn.org/AgendaCenter,http://tn-springhill.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.thompsons-station.com/AgendaCenter,http://tn-thompsonsstation.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.wcpltn.org/AgendaCenter,http://tn-williamsonlibrary.civicplus.com/AgendaCenter,,True
+200,,,http://tx-aacog.civicplus.com/AgendaCenter,,True
+200,,,http://tx-alice.civicplus.com/AgendaCenter,,True
+200,,,http://tx-angleton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://aptx.gov/AgendaCenter,http://tx-aransaspass.civicplus.com/AgendaCenter,,True
+200,,,http://tx-argyle.civicplus.com/AgendaCenter,,True
+200,,,http://tx-balchsprings.civicplus.com/AgendaCenter,,True
+200,,,http://tx-bartonville.civicplus.com/AgendaCenter,,True
+200,,,http://tx-bcsmpo.civicplus.com/AgendaCenter,,True
+200,,,http://tx-benbrook.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://tx-bexarcounty2.civicplus.com/AgendaCenter,http://tx-bexarcounty2.civicplus.com/AgendaCenter,,True
+200,,,http://tx-bigspring.civicplus.com/AgendaCenter,,True
+200,,,http://tx-bigspringcvb.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.borgertx.gov/AgendaCenter,http://tx-borger.civicplus.com/AgendaCenter,,True
+200,,,http://tx-bowie.civicplus.com/AgendaCenter,,True
+200,,,http://tx-brazoria.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cob.us/AgendaCenter,http://tx-brownsville.civicplus.com/AgendaCenter,,True
+200,,,http://tx-brownwood.civicplus.com/AgendaCenter,,True
+200,,,http://tx-buda.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.budalibrary.org/AgendaCenter,http://tx-budalibrary.civicplus.com/AgendaCenter,,True
+200,,,http://tx-bullard.civicplus.com/AgendaCenter,,True
+200,,,http://tx-bulverde.civicplus.com/AgendaCenter,,True
+200,,,http://tx-cameron.civicplus.com/AgendaCenter,,True
+200,,,http://tx-canyon.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofcastlehills.com/AgendaCenter,http://tx-castlehills.civicplus.com/AgendaCenter,,True
+200,,,http://tx-castroville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cibolotx.gov/AgendaCenter,http://tx-cibolo.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.clearlakeshores-tx.gov/AgendaCenter,http://tx-clearlakeshores.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://tx-cleburne2.civicplus.com/AgendaCenter,http://tx-cleburne2.civicplus.com/AgendaCenter,,True
+200,,,http://tx-cleveland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cvworkforce.org/AgendaCenter,http://tx-conchovalleywdb.civicplus.com/AgendaCenter,,True
+200,,,http://tx-converse.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofcorsicana.com/AgendaCenter,http://tx-corsicana.civicplus.com/AgendaCenter,,True
+200,,,http://tx-crandall2.civicplus.com/AgendaCenter,,True
+200,,,http://tx-crowley.civicplus.com/AgendaCenter,,True
+200,,,http://tx-cuero.civicplus.com/AgendaCenter,,True
+200,,,http://tx-decatur.civicplus.com/AgendaCenter,,True
+200,,,http://tx-decatured.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.denisontx.org/AgendaCenter,http://tx-denisondevelopmentalliance.civicplus.com/AgendaCenter,,True
+200,,,http://tx-dickinson.civicplus.com/AgendaCenter,,True
+200,,,http://tx-early2.civicplus.com/AgendaCenter,,True
+200,,,http://tx-edna.civicplus.com/AgendaCenter,,True
+200,,,http://tx-elgin.civicplus.com/AgendaCenter,,True
+200,,,http://tx-ellago.civicplus.com/AgendaCenter,,True
+200,,,http://tx-elliscounty.civicplus.com/AgendaCenter,,True
+200,,,http://tx-fairoaksranch.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.farmersbranchtx.gov/AgendaCenter,http://tx-farmersbranch.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.flower-mound.com/AgendaCenter,http://tx-flowermound.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.forneytx.gov/AgendaCenter,http://tx-forney.civicplus.com/AgendaCenter,,True
+,,,http://tx-fredericksburg.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,,,http://tx-gainesville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.galvestontx.gov/AgendaCenter,http://tx-galveston.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.galvestonparkboard.org/AgendaCenter,http://tx-galvestonpbt.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.garden-ridge.tx.us/AgendaCenter,http://tx-gardenridge.civicplus.com/AgendaCenter,,True
+200,,,http://tx-grandview.civicplus.com/AgendaCenter,,True
+403,,,http://tx-graniteshoals.civicplus.com/AgendaCenter,,False
+200,,,http://tx-hamilton.civicplus.com/AgendaCenter,,True
+200,,,http://tx-haslet2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hendersontx.us/AgendaCenter,http://tx-henderson4.civicplus.com/AgendaCenter,,True
+200,,,http://tx-hewitt2.civicplus.com/AgendaCenter,,True
+403,,,http://tx-hickorycreek.civicplus.com/AgendaCenter,,False
+200,[<Response [302]>],https://www.hptx.org/AgendaCenter,http://tx-highlandpark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://co.hood.tx.us/AgendaCenter,http://tx-hoodcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.huntsvilletx.gov/AgendaCenter,http://tx-huntsville.civicplus.com/AgendaCenter,,True
+200,,,http://tx-jacksonville.civicplus.com/AgendaCenter,,True
+200,,,http://tx-jourdanton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.kemahtx.gov/AgendaCenter,http://tx-kemah.civicplus.com/AgendaCenter,,True
+200,,,http://tx-killeen.civicplus.com/AgendaCenter,,True
+200,,,http://tx-krum.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lcmua.org/AgendaCenter,http://tx-lakecitiesmua.civicplus.com/AgendaCenter,,True
+200,,,http://tx-lakedallas.civicplus.com/AgendaCenter,,True
+200,,,http://tx-lakejackson.civicplus.com/AgendaCenter,,True
+200,,,http://tx-lamarque.civicplus.com/AgendaCenter,,True
+200,,,http://tx-lamesa2.civicplus.com/AgendaCenter,,True
+200,,,http://tx-laporte.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.leaguecity.com/AgendaCenter,http://tx-leaguecity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.libertyhilltx.gov/AgendaCenter,http://tx-libertyhill.civicplus.com/AgendaCenter,,True
+200,,,http://tx-lindale2.civicplus.com/AgendaCenter,,True
+200,,,http://tx-littlefield.civicplus.com/AgendaCenter,,True
+200,,,http://tx-livingston.civicplus.com/AgendaCenter,,True
+200,,,http://tx-llano.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://tx-longview2.civicplus.com/AgendaCenter,http://tx-longview2.civicplus.com/AgendaCenter,,True
+200,,,http://tx-lostpinesgcd.civicplus.com/AgendaCenter,,True
+200,,,http://tx-luling.civicplus.com/AgendaCenter,,True
+200,,,http://tx-manvel.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://marblefallstx.gov/AgendaCenter,http://tx-marblefalls.civicplus.com/AgendaCenter,,True
+200,,,http://tx-martincounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityofmathis.com/AgendaCenter,http://tx-mathis.civicplus.com/AgendaCenter,,True
+200,,,http://tx-mclennancounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmesquite.com/AgendaCenter,http://tx-mesquite.civicplus.com/AgendaCenter,,True
+200,,,http://tx-midland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mineralwellstx.gov/AgendaCenter,http://tx-mineralwells.civicplus.com/AgendaCenter,,True
+200,,,http://tx-montbelvieu.civicplus.com/AgendaCenter,,True
+200,,,http://tx-mountpleasant.civicplus.com/AgendaCenter,,True
+200,,,http://tx-nassaubay.civicplus.com/AgendaCenter,,True
+200,,,http://tx-ovilla.civicplus.com/AgendaCenter,,True
+200,,,http://tx-parker.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.parkercountytx.com/AgendaCenter,http://tx-parkercounty.civicplus.com/AgendaCenter,,True
+200,,,http://tx-pearsall.civicplus.com/AgendaCenter,,True
+200,,,http://tx-plano.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.portarthurtx.gov/AgendaCenter,http://tx-portarthur.civicplus.com/AgendaCenter,,True
+200,,,http://tx-portland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.portofgalveston.com/AgendaCenter,http://tx-portofgalveston.civicplus.com/AgendaCenter,,True
+200,,,http://tx-poteet.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://roanoketexas.com/AgendaCenter,http://tx-roanoke.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://cityofrockport.com/AgendaCenter,http://tx-rockport.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofsanbenito.com/AgendaCenter,http://tx-sanbenito.civicplus.com/AgendaCenter,,True
+200,,,http://tx-sanmarcoscity.civicplus.com/AgendaCenter,,True
+200,,,http://tx-seabrook.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.selma.tx.us/AgendaCenter,http://tx-selma.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.shenandoahtx.us/AgendaCenter,http://tx-shenandoah.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://ci.snyder.tx.us/AgendaCenter,http://tx-snyder2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofsouthlake.com/AgendaCenter,http://tx-southlake.civicplus.com/AgendaCenter,,True
+200,,,http://tx-sunnyvale.civicplus.com/AgendaCenter,,True
+200,,,http://tx-taylorcounty.civicplus.com/AgendaCenter,,True
+200,,,http://tx-texarkana.civicplus.com/AgendaCenter,,True
+200,,,http://tx-thecolonycdc.civicplus.com/AgendaCenter,,True
+200,,,http://tx-tulia.civicplus.com/AgendaCenter,,True
+200,,,http://tx-universalcity2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.upperbrushycreekwcid.org/AgendaCenter,http://tx-upperbrushycreekwcid.civicplus.com/AgendaCenter,,True
+200,,,http://tx-valverdecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cowtx.org/AgendaCenter,http://tx-watauga.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofwebster.com/AgendaCenter,http://tx-webster.civicplus.com/AgendaCenter,,True
+200,,,http://tx-westlake.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.westlakehills.gov/AgendaCenter,http://tx-westlakehills.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.westutx.gov/AgendaCenter,http://tx-westuniversityplace.civicplus.com/AgendaCenter,,True
+200,,,http://tx-whitesettlement.civicplus.com/AgendaCenter,,True
+200,,,http://tx-willis.civicplus.com/AgendaCenter,,True
+200,,,http://tx-workforcesolutionsne.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.americanfork.gov/AgendaCenter,http://ut-americanfork.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.beaver.utah.gov/AgendaCenter,http://ut-beavercounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bluffdale.com/AgendaCenter,http://ut-bluffdale.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cedarcity.org/AgendaCenter,http://ut-cedarcity.civicplus.com/AgendaCenter,,True
+200,,,http://ut-clintoncity.civicplus.com/AgendaCenter,,True
+200,,,http://ut-daggettcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.draperutah.gov/AgendaCenter,http://ut-drapercity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ephraimcity.org/AgendaCenter,http://ut-ephraim.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fruitheightscity.com/AgendaCenter,http://ut-fruitheightscity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.grandcountyutah.net/AgendaCenter,http://ut-grandcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.highlandcity.org/AgendaCenter,http://ut-highlandcity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://kanab.utah.gov/AgendaCenter,http://ut-kanab.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.kaysvillecity.com/AgendaCenter,http://ut-kaysville.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://millcreek.us/AgendaCenter,http://ut-millcreek.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://moabcity.org/AgendaCenter,http://ut-moab.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.murray.utah.gov/AgendaCenter,http://ut-murraycity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.nephi.utah.gov/AgendaCenter,http://ut-nephicity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ogdencity.com/AgendaCenter,http://ut-ogden.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rooseveltcity.com/AgendaCenter,http://ut-rooseveltcity.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sandysid.com/AgendaCenter,http://ut-sandysid.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.saratogaspringscity.com/AgendaCenter,http://ut-saratogasprings.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.springdaletown.com/AgendaCenter,http://ut-springdale.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.summitcounty.org/AgendaCenter,http://ut-summitcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.vineyardutah.org/AgendaCenter,http://ut-vineyard.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bedfordva.gov/AgendaCenter,http://va-bedford.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bristolva.org/AgendaCenter,http://va-bristol.civicplus.com/AgendaCenter,,True
+200,,,http://va-campbellcounty.civicplus.com/AgendaCenter,,True
+200,,,http://va-campbellcountyed.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://co.caroline.va.us/AgendaCenter,http://va-carolinecounty.civicplus.com/AgendaCenter,,True
+200,,,http://va-charlescitycounty2.civicplus.com/AgendaCenter,,True
+200,,,http://va-colonialheights.civicplus.com/AgendaCenter,,True
+200,,,http://va-dinwiddiecounty.civicplus.com/AgendaCenter,,True
+200,,,http://va-fallschurch.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fredericksburgva.gov/AgendaCenter,http://va-fredericksburg.civicplus.com/AgendaCenter,,True
+200,,,http://va-fredericksburged.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.frontroyalva.com/AgendaCenter,http://va-frontroyal.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.gloucesterva.info/AgendaCenter,http://va-gloucestercounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.goochlandva.us/AgendaCenter,http://va-goochlandcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://hampton.gov/AgendaCenter,http://va-hampton.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://va-hanovercounty.civicplus.com/AgendaCenter,http://va-hanovercounty.civicplus.com/AgendaCenter,,True
+200,,,http://va-kinggeorgecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://va-loudouncounty.civicplus.com/AgendaCenter,http://va-loudouncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.louisacounty.com/AgendaCenter,http://va-louisacounty.civicplus.com/AgendaCenter,,True
+200,,,http://va-manassas.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://va-newportnews.civicplus.com/AgendaCenter,http://va-newportnews.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.novaregion.org/AgendaCenter,http://va-nvrc2.civicplus.com/AgendaCenter,,True
+200,,,http://va-orangecounty.civicplus.com/AgendaCenter,,True
+200,,,http://va-pagecounty.civicplus.com/AgendaCenter,,True
+200,,,http://va-petersburg.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.poquoson.va.us/AgendaCenter,http://va-poquoson.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://va-portsmouth.civicplus.com/AgendaCenter,http://va-portsmouth.civicplus.com/AgendaCenter,,True
+200,,,http://va-powhatancounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.purcellvilleva.gov/AgendaCenter,http://va-purcellville2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.radfordva.gov/AgendaCenter,http://va-radford.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.roanokeva.gov/AgendaCenter,http://va-roanoke.civicplus.com/AgendaCenter,,True
+200,,,http://va-rockbridgecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rockinghamcountyva.gov/AgendaCenter,http://va-rockinghamcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.russellcountyva.us/AgendaCenter,http://va-russellcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://rvra.net/AgendaCenter,http://va-rvra.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.spotsylvania.va.us/AgendaCenter,http://va-spotsylvaniacounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://staffordcountyva.gov/AgendaCenter,http://va-staffordcounty3.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://va-suffolk.civicplus.com/AgendaCenter,http://va-suffolk.civicplus.com/AgendaCenter,,True
+200,,,http://va-wata.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.waynesboro.va.us/AgendaCenter,http://va-waynesboro.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.wvarj.org/AgendaCenter,http://va-westernvirginiaregionaljail.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.yorkcounty.gov/AgendaCenter,http://va-yorkcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.yesyorkcounty.com/AgendaCenter,http://va-yorkcountyed.civicplus.com/AgendaCenter,,True
+200,,,http://vt-champlainwaterdistrict.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.hartford-vt.org/AgendaCenter,http://vt-hartford.civicplus.com/AgendaCenter,,True
+200,,,http://vt-milton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.montpelier-vt.org/AgendaCenter,http://vt-montpelier.civicplus.com/AgendaCenter,,True
+200,,,http://vt-montpelieralive.civicplus.com/AgendaCenter,,True
+200,,,http://vt-shelburne.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.winooskivt.gov/AgendaCenter,http://vt-winooski.civicplus.com/AgendaCenter,,True
+200,,,http://wa-aco.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofanacortes.org/AgendaCenter,http://wa-anacortes.civicplus.com/AgendaCenter,,True
+200,,,http://wa-arlington.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bainbridgewa.gov/AgendaCenter,http://wa-bainbridgeisland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofbg.org/AgendaCenter,http://wa-battleground.civicplus.com/AgendaCenter,,True
+200,,,http://wa-bothell.civicplus.com/AgendaCenter,,True
+200,,,http://wa-bremerton.civicplus.com/AgendaCenter,,True
+200,,,http://wa-burlington.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.covingtonwater.com/AgendaCenter,http://wa-covingtonwaterdistrict.civicplus.com/AgendaCenter,,True
+,,,http://wa-cowlitzcounty.civicplus.com/AgendaCenter,"HTTPSConnectionPool(host='wa-cowlitzcounty.civicplus.com', port=443): Max retries exceeded with url: /AgendaCenter (Caused by SSLError(SSLCertVerificationError(""hostname 'wa-cowlitzcounty.civicplus.com' doesn't match either of 'www.www.co.cowlitz.wa.us', 'www.co.cowlitz.wa.us'"")))",
+200,,,http://wa-duvall.civicplus.com/AgendaCenter,,True
+200,,,http://wa-eastsidefirerescue.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://ci.ellensburg.wa.us/AgendaCenter,http://wa-ellensburg.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofenumclaw.net/AgendaCenter,http://wa-enumclaw.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://everettwa.gov/AgendaCenter,http://wa-everett.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.epls.org/AgendaCenter,http://wa-everettlibrary.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.evergreenfair.org/AgendaCenter,http://wa-evergreenstatefairgrounds.civicplus.com/AgendaCenter,,True
+200,,,http://wa-kcfd44.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://wa-kennewick.civicplus.com/AgendaCenter,http://wa-kennewick.civicplus.com/AgendaCenter,,True
+200,,,http://wa-kittitaspud.civicplus.com/AgendaCenter,,True
+200,,,http://wa-klickitatcounty.civicplus.com/AgendaCenter,,True
+200,,,http://wa-laconner.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoflfp.com/AgendaCenter,http://wa-lakeforestpark.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.lakehaven.org/AgendaCenter,http://wa-lakehavenutilitydistrict.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.libertylakewa.gov/AgendaCenter,http://wa-libertylake.civicplus.com/AgendaCenter,,True
+,,,http://wa-monroe.civicplus.com/AgendaCenter,'NoneType' object has no attribute 'span',
+200,,,http://wa-moseslake.civicplus.com/AgendaCenter,,True
+200,,,http://wa-mountlaketerrace.civicplus.com/AgendaCenter,,True
+200,,,http://wa-mountvernon.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.mukilteowwd.org/AgendaCenter,http://wa-mukilteowwd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.piercecountywa.gov/AgendaCenter,http://wa-piercecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.piercecd.org/AgendaCenter,http://wa-piercecountycd.civicplus.com/AgendaCenter,,True
+200,,,http://wa-piercecountyfjc.civicplus.com/AgendaCenter,,True
+200,,,http://wa-piercecountyflooddistrict2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://wa-piercecountytv2.civicplus.com/AgendaCenter,http://wa-piercecountytv.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.portofbellingham.com/AgendaCenter,http://wa-portofbellingham.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.portoflongview.com/AgendaCenter,http://wa-portoflongview.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://portofpa.com/AgendaCenter,http://wa-portofportangeles.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.pscleanair.gov/AgendaCenter,http://wa-pugetsoundcleanair.civicplus.com/AgendaCenter,,True
+200,,,http://wa-puyallup.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sanjuanco.com/AgendaCenter,http://wa-sanjuancounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.snohomishwa.gov/AgendaCenter,http://wa-snohomish.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://wa-snohomishcounty2.civicplus.com/AgendaCenter,http://wa-snohomishcounty2.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.painefield.com/AgendaCenter,http://wa-snohomishcountyairport.civicplus.com/AgendaCenter,,True
+200,,,http://wa-southkingfire.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://wa-spokanecounty.civicplus.com/AgendaCenter,http://wa-spokanecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://spwater.org/AgendaCenter,http://wa-spwsd.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://stanwoodwa.org/AgendaCenter,http://wa-stanwood.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://townofsteilacoom.org/AgendaCenter,http://wa-steilacoom.civicplus.com/AgendaCenter,,True
+200,,,http://wa-sunnyside.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.trpc.org/AgendaCenter,http://wa-trpc.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.wahkiakum.wa.us/AgendaCenter,http://wa-wahkiakumcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.parks.state.wa.us/AgendaCenter,http://wa-washingtonstateparks.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofwashougal.us/AgendaCenter,http://wa-washougal.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.whatcomcounty.us/AgendaCenter,http://wa-whatcomcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.yakimacounty.us/AgendaCenter,http://wa-yakimacounty.civicplus.com/AgendaCenter,,True
+200,,,http://wi-amery.civicplus.com/AgendaCenter,,True
+200,,,http://wi-ashland.civicplus.com/AgendaCenter,,True
+200,,,http://wi-barron.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.bayfieldcounty.wi.gov/AgendaCenter,http://wi-bayfieldcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ci.brookfield.wi.us/AgendaCenter,http://wi-brookfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.buffalocounty.com/AgendaCenter,http://wi-buffalocounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.calumetcounty.org/AgendaCenter,http://wi-calumetcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofcolumbuswi.com/AgendaCenter,http://wi-columbus.civicplus.com/AgendaCenter,,True
+200,,,http://wi-cottagegrove.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.douglascountywi.org/AgendaCenter,http://wi-douglascounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://elmgrovewi.org/AgendaCenter,http://wi-elmgrove.civicplus.com/AgendaCenter,,True
+200,,,http://wi-fitchburg.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoffoxlake.org/AgendaCenter,http://wi-foxlake.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.villageoffoxpoint.com/AgendaCenter,http://wi-foxpoint.civicplus.com/AgendaCenter,,True
+200,,,http://wi-germantown.civicplus.com/AgendaCenter,,True
+200,,,http://wi-glendale.civicplus.com/AgendaCenter,,True
+200,,,http://wi-greenfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://ci.hartford.wi.us/AgendaCenter,http://wi-hartford.civicplus.com/AgendaCenter,,True
+200,,,http://wi-hartland.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityhoriconwi.us/AgendaCenter,http://wi-horicon.civicplus.com/AgendaCenter,,True
+200,,,http://wi-howard.civicplus.com/AgendaCenter,,True
+200,,,http://wi-hudson.civicplus.com/AgendaCenter,,True
+200,[<Response [301]>],https://wi-kenoshacounty.civicplus.com/AgendaCenter,http://wi-kenoshacounty.civicplus.com/AgendaCenter,,True
+200,,,http://wi-lodi.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.milton-wi.gov/AgendaCenter,http://wi-milton.civicplus.com/AgendaCenter,,True
+200,,,http://wi-monona.civicplus.com/AgendaCenter,,True
+200,,,http://wi-mountpleasant.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofmuskego.org/AgendaCenter,http://wi-muskego.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.oconomowoc-wi.gov/AgendaCenter,http://wi-oconomowoc.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.ozaukee.wi.us/AgendaCenter,http://wi-ozaukeecounty.civicplus.com/AgendaCenter,,True
+200,,,http://wi-pewaukee.civicplus.com/AgendaCenter,,True
+200,,,http://wi-poynette.civicplus.com/AgendaCenter,,True
+200,,,http://wi-prescott.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://co.price.wi.us/AgendaCenter,http://wi-pricecounty.civicplus.com/AgendaCenter,,True
+200,,,http://wi-richfield.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.rfcity.org/AgendaCenter,http://wi-riverfalls.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.village.saukville.wi.us/AgendaCenter,http://wi-saukvillevillage.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.sawyercountygov.org/AgendaCenter,http://wi-sawyercounty.civicplus.com/AgendaCenter,,True
+200,,,http://wi-shorewood.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://stfranciswi.org/AgendaCenter,http://wi-stfrancis.civicplus.com/AgendaCenter,,True
+200,,,http://wi-thiensville.civicplus.com/AgendaCenter,,True
+200,,,http://wi-thiensvillelibrary.civicplus.com/AgendaCenter,,True
+200,,,http://wi-verona.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.co.walworth.wi.us/AgendaCenter,http://wi-walworthcounty.civicplus.com/AgendaCenter,,True
+200,,,http://wi-waterford.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://waukesha-wi.gov/AgendaCenter,http://wi-waukesha.civicplus.com/AgendaCenter,,True
+200,,,http://wi-weston.civicplus.com/AgendaCenter,,True
+200,,,http://wi-whitefishbay.civicplus.com/AgendaCenter,,True
+200,,,http://wi-winneconne.civicplus.com/AgendaCenter,,True
+200,,,http://wv-clarksburg.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.fairmontwv.gov/AgendaCenter,http://wv-fairmont.civicplus.com/AgendaCenter,,True
+200,,,http://wv-morgantown.civicplus.com/AgendaCenter,,True
+200,,,http://wv-ranson.civicplus.com/AgendaCenter,,True
+200,,,http://wv-weirton.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.ccgov.net/AgendaCenter,http://wy-campbellcounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.conversecounty.org/AgendaCenter,http://wy-conversecounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityofdouglas.org/AgendaCenter,http://wy-douglas.civicplus.com/AgendaCenter,,True
+200,,,http://wy-evanston.civicplus.com/AgendaCenter,,True
+200,,,http://wy-greenriver.civicplus.com/AgendaCenter,,True
+200,,,http://wy-jackson.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.cityoflaramie.org/AgendaCenter,http://wy-laramie.civicplus.com/AgendaCenter,,True
+200,,,http://wy-natronacounty.civicplus.com/AgendaCenter,,True
+200,,,http://wy-sublettecounty.civicplus.com/AgendaCenter,,True
+200,,,http://wy-tetoncounty.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.tetoncountyfair.com/AgendaCenter,http://wy-tetoncountyfairgrounds.civicplus.com/AgendaCenter,,True
+200,,,http://wy-tetoncountylibrary.civicplus.com/AgendaCenter,,True
+200,[<Response [302]>],https://www.winchester.us/AgendaCenter,http://ma-winchester.civicplus.com/AgendaCenter,,True
